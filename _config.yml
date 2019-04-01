@@ -1,6 +1,6 @@
 # main text of home
-name: Muhammed Shibin
-bio: mail@shibin.co
+name: Ajay Ragh
+bio: ajayragh345@gmail.com
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/shibin.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: shibinco
-twitter: shibinco
+#facebook: 
+#twitter: shibinco
 # google: mygoogle
-instagram: shibin.co
+#instagram: 
 # pinterest: mypinterest
-linkedin: shibinco
-# youtube: myyoutube
+linkedin: ajay-ragh-b0ab23159
+youtube: UCCJ3UXxQTj-p5nirI-XK2yw
 # spotify: myspotify
-github: shibinco
+github: ajayragh97
 # lastfm: mylastfm
-stackoverflow: 5859831/muhammed-shibin
+#stackoverflow: 
 # quora: userquora
 # reddit: username
-medium: shibinco
+#medium: 
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: mail@shibin.co
+email: ajayragh345@gmail.com
 
 authors:
     johndoe:
