@@ -1,8 +1,8 @@
 /* assets/css/styles.css */
 body {
-    background: linear-gradient(to right, #ff9849, #feb47b); /* Gradient background */
+    background: linear-gradient(to right, #aef8fc, #85f6fc); /* Gradient background */
     font-family: Arial, sans-serif;
-    color: #333;
+    color: #44a9c060;
     margin: 0;
     padding: 0;
   }
@@ -14,10 +14,10 @@ body {
   }
   
   a {
-    color: #ff6600; /* Link color */
+    color: #000000; /* Link color */
   }
   
   a:hover {
-    color: #ff7e5f; /* Link hover color */
+    color: #0a6ee8; /* Link hover color */
   }
   
