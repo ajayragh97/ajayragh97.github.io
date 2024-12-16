@@ -1,7 +1,7 @@
 /* assets/css/styles.css */
 body {
     background: linear-gradient(to right, #00f2ff, #a6fbff); /* Gradient background */
-    font-family: Arial, sans-serif;
+    font-family: "DejaVu Sans Mono", "Liberation Mono", monospace;
     color: #020202;
     margin: 0;
     padding: 0;
