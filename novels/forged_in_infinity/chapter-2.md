@@ -1,6 +1,6 @@
 ---
-title: Chapter 1: The Beginning
-chapter_number: 1
+title: Chapter 2: The Beginning continued
+chapter_number: 2
 layout: default
 ---
 
