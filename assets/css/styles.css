@@ -6,3 +6,37 @@ body {
   background-position: center center; /* Center the image */
   background-attachment: fixed; /* Keep the background fixed */
 }
+
+/* Add styles to improve content readability over the background */
+.container {
+  background-color: rgba(255, 255, 255, 0.8); /*  Semi-transparent white background for content */
+  padding: 20px;
+  border-radius: 8px; /* Rounded corners */
+}
+
+/* Improve header visibility */
+header {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black*/
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+header h1 a {
+    color: white; 
+    text-decoration: none;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Use flexbox for horizontal menu */
+    justify-content: center; /* Center the menu items */
+}
+
+nav li {
+    margin: 0 10px; /* Add spacing between menu items */
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
