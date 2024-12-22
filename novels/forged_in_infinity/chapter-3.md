@@ -1,25 +1,17 @@
 ---
-title: Chapter 3
+title: Chapter 3: The End
 chapter_number: 3
 layout: default
 ---
+## the end
 
-## Chapter 3
-
-This is the content of your first chapter...
+test content
 
 <div class="chapter-nav">
-  {% assign current_chapter_number = page.chapter_number | plus: 0 %}
-  {% assign next_chapter_number = current_chapter_number | plus: 1 %}
-  {% assign previous_chapter_number = current_chapter_number | minus: 1 %}
-
-  {% assign next_chapter = site.novels | where: "chapter_number", next_chapter_number | first %}
-  {% assign previous_chapter = site.novels | where: "chapter_number", previous_chapter_number | first %}
-
-  {% if previous_chapter %}
-    <a href="{{ previous_chapter.url }}" class="prev-chapter">Previous Chapter: {{ previous_chapter.title }}</a>
+  {% if page.prev_chapter %}
+    <a href="{{ page.prev_chapter.url }}" class="prev-chapter">Previous Chapter: {{ page.prev_chapter.title }}</a>
   {% endif %}
-  {% if next_chapter %}
-    <a href="{{ next_chapter.url }}" class="next-chapter">Next Chapter: {{ next_chapter.title }}</a>
+  {% if page.next_chapter %}
+    <a href="{{ page.next_chapter.url }}" class="next-chapter">Next Chapter: {{ page.next_chapter.title }}</a>
   {% endif %}
 </div>

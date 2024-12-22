@@ -8,8 +8,7 @@ layout: default
 <ul>
   {% assign chapters = site.novels | sort: "chapter_number" %}
   {% for chapter in chapters %}
-    {% if chapter.path contains 'chapter-' %}
-      <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
-    {% endif %}
+    {% assign chapter_url = chapter.path | relative_url %}
+    <li><a href="{{ chapter_url }}">{{ chapter.title }}</a></li>
   {% endfor %}
 </ul>
