@@ -1,23 +1,8 @@
 /* assets/css/styles.css */
 body {
-    background: linear-gradient(to right, #00f2ff, #a6fbff); /* Gradient background */
-    font-family: "DejaVu Sans Mono", "Liberation Mono", monospace;
-    color: #020202;
-    margin: 0;
-    padding: 0;
-  }
-  
-  header {
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent dark header */
-    color: white;
-    padding: 20px;
-  }
-  
-  a {
-    color: #000000; /* Link color */
-  }
-  
-  a:hover {
-    color: #0a6ee8; /* Link hover color */
-  }
-  
+  background-image: url('/assets/parchment.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; /* Center the image */
+  background-attachment: fixed; /* Keep the background fixed */
+}
