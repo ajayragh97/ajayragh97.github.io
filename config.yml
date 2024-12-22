@@ -1,5 +1,9 @@
-title: My Simple Jekyll Site
+title: Ajay Ragh
 description: A simple portfolio and blog
-author: Your Name
+author: Ajay Ragh
 url: "https://username.github.io"
 theme: jekyll-theme-cayman
+
+collections:
+  novels:
+    output: true
