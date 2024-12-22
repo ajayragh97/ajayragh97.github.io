@@ -9,19 +9,14 @@ layout: default
 This is the content of your first chapter...
 
 <div class="chapter-nav">
-  {% assign current_chapter_number = page.chapter_number | plus: 0 %}
-  {% assign next_chapter_number = current_chapter_number | plus: 1 %}
-  {% assign previous_chapter_number = current_chapter_number | minus: 1 %}
+  {% assign current_chapter_number = page.chapter_number %}
+  <p>Current Chapter Number: {{ current_chapter_number }}</p>
 
-  {% assign current_dir = page.dir | remove_first: '/' %}
+  {% assign chapters_in_dir = site.pages | where: "dir", page.dir %}
+  <p>Chapters in this directory: {{ chapters_in_dir.size }}</p>
 
-  {% assign next_chapter = site.pages | where: "dir", current_dir | where: "chapter_number", next_chapter_number | first %}
-  {% assign previous_chapter = site.pages | where: "dir", current_dir | where: "chapter_number", previous_chapter_number | first %}
-
-  {% if previous_chapter %}
-    <a href="{{ previous_chapter.url }}" class="prev-chapter">Previous Chapter</a>
-  {% endif %}
-  {% if next_chapter %}
-    <a href="{{ next_chapter.url }}" class="next-chapter">Next Chapter</a>
-  {% endif %}
+  {% for chapter in chapters_in_dir %}
+      <p>Chapter title: {{chapter.title}}</p>
+      <p>Chapter number: {{chapter.chapter_number}}</p>
+  {% endfor %}
 </div>
