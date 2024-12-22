@@ -62,3 +62,22 @@ nav a {
   text-decoration: none;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* Shadow for nav text */
 }
+
+.chapter-nav {
+  margin-top: 20px;
+  text-align: center; /* Center the buttons */
+}
+
+.chapter-nav a {
+  display: inline-block; /* Make the links behave like buttons */
+  padding: 10px 20px;
+  margin: 0 10px;
+  background-color: #ddd; /* Light gray background */
+  color: #333;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.chapter-nav a:hover {
+  background-color: #ccc;
+}
