@@ -1,20 +1,24 @@
-/* assets/css/styles.css */
 body {
-  background-image: url('/assets/parchment.jpeg');
+  background-image: url('/assets/images/parchment.jpeg'); /* Or your image path */
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; /* Center the image */
-  background-attachment: fixed; /* Keep the background fixed */
+  background-position: center center;
+  background-attachment: fixed;
+  margin: 0;
+  min-height: 100vh;
 }
 
-/* Add styles to improve content readability over the background */
 .container {
-  background-color: rgba(255, 255, 255, 0.8); /*  Semi-transparent white background for content */
+  background-color: rgba(255, 255, 255, 0.8);
   padding: 20px;
-  border-radius: 8px; /* Rounded corners */
+  border-radius: 8px;
 }
 
-/* Improve header visibility */
+main {
+    padding: 20px;
+    max-width: 960px;
+    margin: 0 auto;
+}
 header {
     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black*/
     padding: 10px;
@@ -22,7 +26,7 @@ header {
     border-radius: 8px;
 }
 header h1 a {
-    color: white; 
+    color: white; /* Example: White text for the title */
     text-decoration: none;
 }
 nav ul {
