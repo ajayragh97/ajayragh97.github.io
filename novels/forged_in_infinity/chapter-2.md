@@ -4,7 +4,7 @@ chapter_number: 1
 layout: default
 ---
 
-## Chapter 1 Test
+## Chapter 2 Test
 
 <div class="chapter-nav">
   {% assign current_chapter_number = page.chapter_number | plus: 0 %}

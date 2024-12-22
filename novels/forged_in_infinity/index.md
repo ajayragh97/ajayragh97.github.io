@@ -1,5 +1,5 @@
 ---
-title: The Name of Your Novel
+title: Forged In Infinity
 layout: default # Important: Add this line
 ---
 
