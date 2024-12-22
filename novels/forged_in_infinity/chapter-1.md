@@ -1,11 +1,10 @@
 ---
 title: Chapter 1: The Beginning
 chapter_number: 1
+layout: default
 ---
 
-## {{ page.title }}
-
-This is the content of your first chapter...
+## {{ page.title }}  This is the content of your first chapter...
 
 <div class="chapter-nav">
   {% assign current_chapter_number = page.chapter_number | plus: 0 %}
