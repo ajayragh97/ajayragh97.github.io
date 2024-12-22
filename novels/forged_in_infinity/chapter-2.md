@@ -1,18 +1,22 @@
 ---
-title: Chapter 2: The Beginning continued
+title: Chapter 2: The Middle
 chapter_number: 2
 layout: default
 ---
 
-## Chapter 2 Test
+## Chapter 2
+
+This is the content of your first chapter...
 
 <div class="chapter-nav">
   {% assign current_chapter_number = page.chapter_number | plus: 0 %}
   {% assign next_chapter_number = current_chapter_number | plus: 1 %}
   {% assign previous_chapter_number = current_chapter_number | minus: 1 %}
 
-  {% assign next_chapter = site.pages | where: "dir", page.dir | where: "chapter_number", next_chapter_number | first %}
-  {% assign previous_chapter = site.pages | where: "dir", page.dir | where: "chapter_number", previous_chapter_number | first %}
+  {% assign current_dir = page.dir | remove_first: '/' %}
+
+  {% assign next_chapter = site.pages | where: "dir", current_dir | where: "chapter_number", next_chapter_number | first %}
+  {% assign previous_chapter = site.pages | where: "dir", current_dir | where: "chapter_number", previous_chapter_number | first %}
 
   {% if previous_chapter %}
     <a href="{{ previous_chapter.url }}" class="prev-chapter">Previous Chapter</a>

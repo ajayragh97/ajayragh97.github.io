@@ -1,10 +1,10 @@
 ---
-title: Chapter 1: The Beginning
-chapter_number: 1
+title: Chapter 3: The End
+chapter_number: 3
 layout: default
 ---
 
-## Chapter 1
+## Chapter 3
 
 This is the content of your first chapter...
 
