@@ -1,13 +1,8 @@
 ---
-title: Chapter 1       # Title of the file
-chapter_number: 1  # Chapter number of the file
-layout: default
-chapters:
-  - title: Chapter 1: Introduction # Title of the first section
-    chapter_number: 1           # Section number (within the file)
+title: Chapter 1: The Beginning
+chapter_number: 1
+layout: chapter
+novel: forged_in_infinity # Matches the directory name
 ---
 
-## the begining
-
-test content
-
+This is the content of Chapter 1.

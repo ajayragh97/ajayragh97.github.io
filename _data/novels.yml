@@ -1,4 +1,4 @@
 novels:
-  - title: "Forged in Infinity"
-    slug: "forged_in_infinity" # Used for URL generation
-    description: "This is an experimental fan fiction novel I am making as a hobby. The concept is about Tony Stark reincarnating in another world."
+  - title: The Forged Infinity
+    directory: forged_in_infinity
+  # Add more novels here

@@ -1,0 +1,7 @@
+<ul class="novels-nav">
+    {% for novel in site.novels %}
+      <li>
+        <a href="{{ novel.url }}">{{ novel.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
