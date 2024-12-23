@@ -6,8 +6,12 @@ layout: default
 <h1>{{ page.title }} Chapters</h1>
 
 <ul>
-  {% assign chapters = site.novels | where: "novel", page.dir | sort_by_number: "chapter_number" %}
-  {% for chapter in chapters %}
-    <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
+  {% assign all_chapters = site.novels | where: "novel", page.dir %}
+  {% assign chapters = all_chapters | map: "chapter_number" | sort %}
+  {% for chapter_number in chapters %}
+    {% assign chapter = site.novels | where: "novel", page.dir | where: "chapter_number", chapter_number | first %}
+    {% if chapter %}
+        <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
