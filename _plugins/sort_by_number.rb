@@ -1,8 +1,10 @@
 module Jekyll
     module SortByNumberFilter
       def sort_by_number(array, property)
-        return [] if array.nil? # Handle nil arrays
-        array.sort_by { |item| item[property].to_i }
+        return [] if array.nil?
+  
+        # Crucial change: Convert to a Ruby Array before sorting
+        array.to_a.sort_by { |item| item[property].to_i }
       end
     end
   end
