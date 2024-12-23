@@ -6,10 +6,11 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <ul>
-  {% assign chapters = site.novels | sort: "chapter_number" %}
-  {% for chapter in chapters %}
-    <li>
-      <a href="{{ chapter.url }}">{{ chapter.title }}</a>
-    </li>
+  {% for novel_file in site.novels %} {# Iterate through novel files #}
+    {% if novel_file.chapters %} {# Check if chapters exist in this file #}
+      {% for chapter in novel_file.chapters %} {# Iterate through chapters in this file #}
+        <li><a href="{{ novel_file.url }}#{{ chapter.chapter_number }}">{{ chapter.title }}</a></li>
+      {% endfor %}
+    {% endif %}
   {% endfor %}
 </ul>
