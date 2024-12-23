@@ -9,6 +9,6 @@ permalink: /novels/
 {% assign novels = site.data.novels.novels %}
 <ul>
   {% for novel in novels %}
-    <li><a href="/novels/{{ novel.slug }}/">{{ novel.title }}</a> - {{ novel.description }}</li>
+    <li><a href="/novels/{{ novel.directory }}/">{{ novel.title }}</a> - {{ novel.description }}</li>
   {% endfor %}
 </ul>
