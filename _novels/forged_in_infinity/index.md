@@ -5,4 +5,11 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<pre>{{ site.novels | inspect }}</pre>
+<ul>
+  {% assign chapters = site.novels | sort: "chapter_number" %}
+  {% for chapter in chapters %}
+    <li>
+      <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
