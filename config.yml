@@ -7,11 +7,11 @@ theme: jekyll-theme-cayman
 collections:
   novels:
     output: true
-    files: "*.md"  # This tells Jekyll to process all markdown files within the novels directory
-    fields:  # This defines the keys Jekyll will extract from each markdown file
-      - title  # This expects each novel markdown file to have a "title" key
-      - chapter_number
-      - chapters:  # This expects a nested key named "chapters" containing details about chapters.
-        fields:  # This defines nested fields for chapter details within each novel
-          - title  # Each chapter object should have a "title" key
-          - chapter_number  # Each chapter object should have a "chapter_number" key
+    files: "*.md"
+    fields:
+      - title
+      - chapter_number # Keep this for sorting
+      - chapters:
+        fields:
+          - title
+          - chapter_number # Keep this for individual chapter details
