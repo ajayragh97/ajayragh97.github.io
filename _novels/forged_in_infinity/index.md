@@ -5,7 +5,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<h2>Debugging site.novels:</h2> {# Add a heading for clarity #}
+<h2>Debugging site.novels:</h2>
 
 {% if site.novels %}
   <p>site.novels is not empty! Number of novels: {{ site.novels.size }}</p>
@@ -19,7 +19,10 @@ layout: default
           <h3>Chapters:</h3>
           <ul>
             {% for chapter in novel.chapters %}
-              <li>{{ chapter.title }} (Chapter Number: {{ chapter.chapter_number }})</li>
+              <li>
+                <a href="{{ chapter.url }}">{{ chapter.title }}</a> {# Use chapter.url directly! #}
+                (Chapter Number: {{ chapter.chapter_number }})
+              </li>
             {% endfor %}
           </ul>
         {% else %}
