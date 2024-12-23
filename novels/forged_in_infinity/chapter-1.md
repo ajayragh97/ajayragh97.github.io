@@ -1,5 +1,5 @@
 ---
-title: Chapter 1: The Beginning
+title: Chapter 1
 chapter_number: 1
 layout: default
 ---

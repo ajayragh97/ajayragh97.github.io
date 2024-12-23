@@ -1,5 +1,5 @@
 ---
-title: Chapter 3: The End
+title: Chapter 3
 chapter_number: 3
 layout: default
 ---

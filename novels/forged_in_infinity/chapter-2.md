@@ -1,5 +1,5 @@
 ---
-title: Chapter 2: The Middle
+title: Chapter 2
 chapter_number: 2
 layout: default
 ---
