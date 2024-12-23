@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Simple Jekyll Site
+# Welcome!
 
-Hello! This is my simple website built with Jekyll. I will use this site to showcase my projects and write about things I find interesting. Stay tuned!
+Hello! Wlecome to my portfolio page. 
+Here you can find about myself and some of my projects and Hobbies.
 
 [Visit my About Page](/about)
