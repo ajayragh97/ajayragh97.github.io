@@ -31,12 +31,3 @@ layout: default
 {% else %}
   <p>site.novels is empty. Check your _config.yml and file structure.</p>
 {% endif %}
-
-<h2>Chapter List (If site.novels is populated):</h2> {# Separate the actual list #}
-<ul>
-  {% assign chapters = site.novels | sort: "chapter_number" %}
-  {% for chapter in chapters %}
-    {% assign full_chapter_path = '/novels/' | append: chapter.path %}
-    <li><a href="{{ full_chapter_path | relative_url }}">{{ chapter.title }}</a></li>
-  {% endfor %}
-</ul>
