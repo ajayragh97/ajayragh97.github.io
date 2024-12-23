@@ -1,9 +1,9 @@
 ---
-title: The Forged Infinity
+title: Forged in Infinity
 layout: default
 ---
 
-<h1>{{ page.title }} Chapters</h1>
+<h1>Chapters</h1>
 
 <ul>
   {% assign chapters = site.novels | where: "novel", page.dir | sort_by_number: "chapter_number" %}
