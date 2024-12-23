@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 31: Shared Afternoons**
+# **Shared Afternoons**
 
 The dismissal bell at Oakwood Elementary School rang with the shrill
 enthusiasm only a room full of seven-year-olds could generate. Tony,

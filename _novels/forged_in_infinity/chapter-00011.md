@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 11: Cardboard Castles and Angel Wings (1986)**
+# **Cardboard Castles and Angel Wings**
 
 The kindergarten classroom was a whirlwind of creative chaos. Glitter
 dusted every surface, cardboard boxes lay scattered like building

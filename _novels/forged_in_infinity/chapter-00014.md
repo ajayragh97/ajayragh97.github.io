@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 14: A Night in Bethlehem (1986)**
+# **A Night in Bethlehem**
 
 The kindergarten classroom was transformed. Rows of tiny chairs faced
 the makeshift stage, bathed in the warm, slightly flickering glow of the

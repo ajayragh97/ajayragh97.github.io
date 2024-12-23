@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 26: New Beginnings**
+# **New Beginnings**
 
 *Past*
 

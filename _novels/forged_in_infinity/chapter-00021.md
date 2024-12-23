@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 21: A Glimmer of Hope**
+# **A Glimmer of Hope**
 
 The world was a blur of muted sounds and hazy images. Eleanor lay on her
 bed, the rough fabric of the thin blanket scratching against her cheek.

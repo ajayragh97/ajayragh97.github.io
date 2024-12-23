@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 25: A Glimmer of Understanding**
+# **A Glimmer of Understanding**
 
 *Past*
 

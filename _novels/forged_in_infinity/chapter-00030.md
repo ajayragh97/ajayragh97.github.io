@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 30: Shifting Focus**
+# **hifting Focus**
 
 The early morning sun cast long shadows across the quiet street as Silas
 took up his position. He leaned casually against a lamppost, a newspaper

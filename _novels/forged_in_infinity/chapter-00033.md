@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 33: Echoes of the Past**
+# **Echoes of the Past**
 
 The setting sun cast long shadows across the Evans' driveway, painting
 the garage door in hues of orange and purple. Inside, the air was thick

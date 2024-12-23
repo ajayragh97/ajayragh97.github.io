@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 13: Dress Rehearsal and Pre-Performance Butterflies (1986)**
+# **Dress Rehearsal and Pre-Performance Butterflies**
 
 The kindergarten classroom was barely recognizable. The usual play areas
 were gone, replaced by a makeshift stage area dominated by the sturdy

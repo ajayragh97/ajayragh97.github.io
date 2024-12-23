@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# Chapter 29: Whispers of Discovery 
+# **Whispers of Discovery** 
 
 The late evening air in the library was thick with the scent of aged
 paper and dust, a quiet counterpoint to the hushed rustling of turning

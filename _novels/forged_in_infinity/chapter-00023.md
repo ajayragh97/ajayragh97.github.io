@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 23: Shadows of the Past**
+# **Shadows of the Past**
 
 *Past*
 

@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 28: Finding Her Voice**
+# **Finding Her Voice**
 
 Tony and Eleanor returned to the classroom, the quiet alcove's brief
 respite already fading into a distant memory. The classroom, though not

@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 9: A Star is Born? (1986)**
+# **A Star is Born?**
 
 The air in the kindergarten classroom crackled with a different kind of
 energy than usual. Instead of the usual free-for-all of block towers and

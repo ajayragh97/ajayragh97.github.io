@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-1.  **Chapter 3: New Faces, Familiar Bonds**
+# **New Faces, Familiar Bonds**
 
 Tony Stark had always prided himself on his ability to adapt, to
 compartmentalize, to conquer any challenge with his intellect and

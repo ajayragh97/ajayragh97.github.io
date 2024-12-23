@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 15: Shared Beginnings (January 1987)**
+# **Shared Beginnings**
 
 The kindergarten classroom felt cavernous without the children's
 chatter. Empty chairs were stacked against the walls, and the colorful

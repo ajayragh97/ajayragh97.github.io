@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 20: The Breaking Point**
+# **The Breaking Point**
 
 The air in the house was heavy, thick with a silence that felt more
 oppressive than any shouting. The storm from the night before had

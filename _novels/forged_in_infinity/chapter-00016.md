@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 16: The Lost Toy**
+# **The Lost Toy**
 
 The classroom air buzzed with the low hum of focused concentration. Mrs.
 Peterson's voice, warm and encouraging, filled the room as she guided

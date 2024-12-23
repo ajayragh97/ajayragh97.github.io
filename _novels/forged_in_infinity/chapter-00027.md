@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 27: Echoes of the Past**
+# **Echoes of the Past**
 
 Eleanor, still reeling from the perceived judgment of the other children
 on the playground, pulled her hand away from Tony and shook her head,

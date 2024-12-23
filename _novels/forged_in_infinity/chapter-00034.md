@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 34: A Shared Meal**
+# **A Shared Meal**
 
 The local community center's annual summer picnic was a chaotic symphony
 of sounds: children's excited shrieks, the tinny music blaring from the

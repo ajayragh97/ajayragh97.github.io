@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 19: The Gathering Storm**
+# **The Gathering Storm**
 
 The house was too clean. Eleanor had noticed it the moment she'd
 arrived. Everything was in its place, polished and gleaming, as if no

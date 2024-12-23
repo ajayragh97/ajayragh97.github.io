@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 17: The Empty Plate**
+# **The Empty Plate**
 
 The lunchroom was a battlefield of noise and smells. The clatter of
 trays, the high-pitched shrieks of laughter, the competing aromas of

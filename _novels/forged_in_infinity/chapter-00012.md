@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 12: Stage Frights and Shared Smiles (1986)**
+# **Stage Frights and Shared Smiles**
 
 The kindergarten classroom, a delightful chaos of glitter, construction
 paper, and half-finished props, hummed with nervous energy. The

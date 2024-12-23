@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 32: A Shared Understanding**
+# **A Shared Understanding**
 
 The early morning sun streamed through the window of Tony's room,
 illuminating dust motes dancing in the air. He wasn't asleep, of course.

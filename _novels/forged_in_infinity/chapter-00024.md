@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 24: Building Trust**
+# **Building Trust**
 
 *Past*
 

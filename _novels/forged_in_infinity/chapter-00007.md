@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-**Chapter 7: The Kindergarten Question (1985-1986)**
+# **The Kindergarten Question**
 
 The children's museum was a whirlwind of activity. Bright colors,
 flashing lights, and the excited shrieks of children filled the air. For

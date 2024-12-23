@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 2: Rebirth in the Darkness**
+# **Rebirth in the Darkness**
 
 The dark void surrounding Tony Stark felt suffocating. There were no
 stars, no sky, only a vast emptiness that stretched endlessly in all

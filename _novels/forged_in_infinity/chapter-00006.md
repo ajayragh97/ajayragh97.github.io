@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 6: The World Beyond the House (1984-1985)**
+# ** The World Beyond the House**
 
 Three, four, five. Time continued its relentless, agonizing crawl. Each
 passing year was a small victory for Tony, a step closer to regaining

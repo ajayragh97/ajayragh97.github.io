@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-### **Chapter 1: The Snap**
+# **The Snap**
 
 *The battlefield was a cacophony of chaos---explosions tore through the
 remnants of the Avengers' compound, and the skies raged with fire and

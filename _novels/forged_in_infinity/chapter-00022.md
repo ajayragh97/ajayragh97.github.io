@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 22: First Steps**
+# **First Steps**
 
 The car ride was short, but to Eleanor, it felt like traveling to
 another world. The car, clean and smelling faintly of vanilla air

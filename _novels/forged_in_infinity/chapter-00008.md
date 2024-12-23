@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 8: Kindergarten Chaos (1986)**
+# **Kindergarten Chaos**
 
 The kindergarten classroom was a vibrant explosion of color and sound.
 Construction paper cutouts of misshapen trees, lopsided suns, and

@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 18: The Whispered Word**
+# **The Whispered Word**
 
 The morning sun streamed through Tony's bedroom window, casting long
 shadows across the floor. He sat cross-legged in the center of the room,

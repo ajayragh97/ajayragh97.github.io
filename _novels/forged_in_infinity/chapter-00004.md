@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 4: Growing Up Evans (1980-1982)**
+# **Growing Up Evans**
 
 The world was a chaotic symphony of sensory input. Everything was
 amplified, overwhelming. The harsh fluorescent lights of the hospital

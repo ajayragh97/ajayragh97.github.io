@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# Chapter 10: First Steps on Stage (1986) 
+# **First Steps on Stage**
 
 The day after Ms. Johnson's big announcement, the kindergarten classroom
 held a different kind of energy. The usual free-for-all of play had been

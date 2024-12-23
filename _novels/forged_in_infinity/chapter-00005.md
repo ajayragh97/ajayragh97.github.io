@@ -5,7 +5,7 @@ novel: forged_in_infinity
 layout: chapter
 ---
 
-# **Chapter 5: First Words, First Sparks (1982-1984)**
+# **First Words, First Sparks**
 
 Time, as Tony Stark had known it, was a quantifiable metric, a series of
 precisely calculated intervals. Time as Anthony Evans experienced it was
