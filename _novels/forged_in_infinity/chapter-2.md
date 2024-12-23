@@ -1,5 +1,5 @@
 ---
-title: Chapter 2: The Mid
+title: Chapter 2
 chapter_number: 2
 novel: forged_in_infinity
 layout: chapter
