@@ -11,7 +11,4 @@ collections:
     fields:
       - title
       - chapter_number
-      - chapters:
-        fields:
-          - title
-          - chapter_number
+      - novel # Add novel here
