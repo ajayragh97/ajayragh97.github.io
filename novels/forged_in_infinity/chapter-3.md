@@ -4,7 +4,7 @@ chapter_number: 3
 layout: default
 chapters:
   - title: Chapter 3: Conclusion
-layout: default
+    chapter_number: 3
 ---
 ## the end
 

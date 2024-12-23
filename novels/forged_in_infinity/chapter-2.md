@@ -4,7 +4,7 @@ chapter_number: 2
 layout: default
 chapters:
   - title: Chapter 2: Content
-layout: default
+    chapter_number: 2
 ---
 
 ## the middle
