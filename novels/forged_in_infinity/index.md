@@ -6,7 +6,9 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <ul>
-  {% for chapter in site.novels.first.chapters %}  # Access chapters from first novel
-    <li><a href="{{ chapter.path | relative_url }}">{{ chapter.title }}</a></li>
+  {% assign chapters = site.novels | sort: "chapter_number" %}
+  {% for chapter in chapters %}
+    {% assign full_chapter_path = '/novels/forged_in_infinity/' | append: chapter.path %}
+    <li><a href="{{ full_chapter_path | relative_url }}">{{ chapter.title }}</a></li>
   {% endfor %}
 </ul>
