@@ -4,7 +4,7 @@ layout: default
 ---
 
 <h1>{{ page.title }} Chapters</h1>
-{% include '_includes/novels_navigation.html' %}
+{% include _includes/novels_navigation.html %}
 <ul>
   {% assign chapters = site.novels | where: "novel", page.dir | sort: "chapter_number" %}
   {% for chapter in chapters %}
