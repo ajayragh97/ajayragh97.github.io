@@ -1,14 +1,18 @@
 ---
-title: Forged in Infinity # Title of the Novel
-layout: default # Or a custom layout for novels
+title: The Forged Infinity
+layout: default
 ---
 
-# Forged in Infinity
+<h1>{{ page.title }}</h1>
 
-Welcome to the Forged Infinity! Here you can find all the chapters.
+Welcome to {{ page.title }}! Here you can find all the chapters.
 
-{% for chapter in site.novels %}
+<ul>
+  {% for chapter in site.novels %}
     {% if chapter.novel == page.dir %}
-        <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
+        {% for chapter_data in chapter.chapters %}
+            <li><a href="{{ chapter.url }}">{{ chapter_data.title }}</a></li>
+        {% endfor %}
     {% endif %}
-{% endfor %}
+  {% endfor %}
+</ul>
