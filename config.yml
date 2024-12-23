@@ -10,8 +10,8 @@ collections:
     files: "*.md"
     fields:
       - title
-      - chapter_number # Keep this for sorting
+      - chapter_number
       - chapters:
         fields:
           - title
-          - chapter_number # Keep this for individual chapter details
+          - chapter_number
