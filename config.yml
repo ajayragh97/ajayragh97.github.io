@@ -13,4 +13,4 @@ collections:
       - chapters:  # This expects a nested key named "chapters" containing details about chapters.
         fields:  # This defines nested fields for chapter details within each novel
           - title  # Each chapter object should have a "title" key
-          # ... other chapter fields like number, content, etc. ...
+          - chapter_number  # Each chapter object should have a "chapter_number" key
