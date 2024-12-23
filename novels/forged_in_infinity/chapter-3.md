@@ -2,6 +2,9 @@
 title: Chapter 3
 chapter_number: 3
 layout: default
+chapters:
+  - title: Chapter 3: Conclusion
+layout: default
 ---
 ## the end
 

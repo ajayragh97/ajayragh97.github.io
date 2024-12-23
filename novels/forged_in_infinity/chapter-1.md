@@ -2,6 +2,9 @@
 title: Chapter 1
 chapter_number: 1
 layout: default
+chapters:
+  - title: Chapter 1: Introduction
+layout: default
 ---
 
 ## the begining

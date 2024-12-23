@@ -2,6 +2,9 @@
 title: Chapter 2
 chapter_number: 2
 layout: default
+chapters:
+  - title: Chapter 2: Content
+layout: default
 ---
 
 ## the middle
