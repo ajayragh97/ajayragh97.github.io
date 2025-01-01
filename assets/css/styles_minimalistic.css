@@ -1,114 +1,150 @@
 /* General Styles */
 body {
-    font-family: sans-serif; /* Use a clean, sans-serif font */
-    margin: 0; /* Remove default margins */
-    line-height: 1.6; /* Improve readability */
-    color: #333; /* Dark gray text for good contrast */
-    background-color: #f8f8f8; /* Very light gray background */
+    font-family: 'Roboto', sans-serif; /* Use a more modern font */
+    margin: 0;
+    line-height: 1.7; /* Slightly increased line height */
+    color: #333;
+    background-color: #fefefe; /* Off-white background */
+    -webkit-font-smoothing: antialiased; /* Better font rendering */
   }
   
-  /* Container for centering content */
   .container {
-    max-width: 960px; /* Set a maximum width */
-    margin: 0 auto; /* Center the container */
-    padding: 20px;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px; /* Increased padding */
   }
   
-  /* Header Styles */
-  header {
-    padding: 40px 0;
-    text-align: center; /* Center the header content */
+  /* Typography */
+  h1, h2, h3 {
+      font-family: 'Poppins', sans-serif; /* Use a bolder heading font */
+      font-weight: 700;
   }
   
   h1 {
-    font-size: 2.5em; /* Large heading */
-    margin-bottom: 10px;
-    color: #222; /* Slightly darker heading color */
-  }
-  
-  nav ul {
-    list-style: none; /* Remove bullet points */
-    padding: 0;
-    margin: 0;
-  }
-  
-  nav li {
-    display: inline; /* Make list items horizontal */
-    margin: 0 15px; /* Add spacing between items */
-  }
-  
-  nav a {
-    text-decoration: none; /* Remove underlines from links */
-    color: #555; /* Medium gray link color */
-    font-weight: 500; /* Slightly bolder font weight */
-    transition: color 0.3s ease; /* Smooth color transition on hover */
-  }
-  
-  nav a:hover {
-    color: #007bff; /* Blue hover color (you can change this) */
-  }
-  
-  /* Section Styles */
-  section {
-    padding: 40px 0;
+    font-size: 2.8em;
+    margin-bottom: 20px;
+    color: #222;
   }
   
   h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
+    font-size: 2.2em;
+    margin-bottom: 25px;
     color: #222;
-    border-bottom: 1px solid #ddd; /* Subtle bottom border */
-    padding-bottom: 10px;
+    border-bottom: 2px solid #eee; /* Thicker, lighter border */
+    padding-bottom: 15px;
   }
   
-  /* Project/Work Item Styles (Example) */
-  .project {
-    margin-bottom: 30px;
-    border: 1px solid #eee;
-    padding: 20px;
-    border-radius: 5px;
-    background-color: white;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05); /* Very subtle shadow */
-  }
-  
-  .project h3 {
-    font-size: 1.5em;
+  h3 {
+    font-size: 1.6em;
     margin-bottom: 10px;
   }
   
-  .project p {
-    margin-bottom: 15px;
+  p {
+    margin-bottom: 20px;
+  }
+  
+  /* Header and Navigation */
+  header {
+    padding: 60px 0; /* Increased header padding */
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0; /* Added margin */
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0 20px; /* Increased spacing */
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #555;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    padding: 8px 12px; /* Add padding to nav items */
+    border-radius: 4px; /* Slightly rounded corners */
+  }
+  
+  nav a:hover {
+    color: #007bff;
+    background-color: #e9f2fb; /* Light background on hover */
+  }
+  
+  /* Sections and Projects */
+  section {
+    padding: 60px 0;
+  }
+  
+  .project {
+    margin-bottom: 40px;
+    border: 1px solid #eee;
+    padding: 30px; /* Increased padding */
+    border-radius: 8px; /* More rounded corners */
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08); /* More pronounced shadow */
+    transition: transform 0.2s ease-in-out; /* Add a slight transform on hover */
+  }
+  
+  .project:hover {
+    transform: translateY(-4px); /* Move project up slightly on hover */
   }
   
   .project img {
-      max-width: 100%;
-      height: auto;
-      display: block; /* Prevents image from affecting layout */
-      margin-bottom: 15px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+    border-radius: 4px;
   }
   
-  /* Footer Styles */
+  .project .project-description {
+      margin-bottom: 20px;
+  }
+  
+  .project .project-links {
+      display: flex;
+      gap: 10px;
+  }
+  
+  .project .project-links a {
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      padding: 8px 12px;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+  }
+  
+  .project .project-links a:hover {
+      background-color: #0056b3;
+  }
+  
+  /* Footer */
   footer {
     text-align: center;
-    padding: 20px 0;
-    background-color: #f0f0f0; /* Slightly darker background than body */
+    padding: 30px 0;
+    background-color: #f5f5f5;
     border-top: 1px solid #ddd;
     color: #777;
   }
   
   /* Responsive adjustments */
   @media (max-width: 768px) {
-      .container {
-          padding: 10px;
-      }
-      nav li {
-          display: block;
-          margin: 10px 0;
-      }
-      h1 {
-          font-size: 2em;
-      }
-      h2 {
-          font-size: 1.5em;
-      }
+    .container {
+      padding: 20px;
+    }
+    nav li {
+      display: block;
+      margin: 10px 0;
+    }
+    h1 {
+      font-size: 2.2em;
+    }
+    h2 {
+      font-size: 1.8em;
+    }
   }
