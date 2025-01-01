@@ -1,6 +1,6 @@
 ---
 title: Forged in Infinity
-layout: default
+layout: chapter
 ---
 
 <h1>Chapters</h1>
