@@ -1,0 +1,114 @@
+/* General Styles */
+body {
+    font-family: sans-serif; /* Use a clean, sans-serif font */
+    margin: 0; /* Remove default margins */
+    line-height: 1.6; /* Improve readability */
+    color: #333; /* Dark gray text for good contrast */
+    background-color: #f8f8f8; /* Very light gray background */
+  }
+  
+  /* Container for centering content */
+  .container {
+    max-width: 960px; /* Set a maximum width */
+    margin: 0 auto; /* Center the container */
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  header {
+    padding: 40px 0;
+    text-align: center; /* Center the header content */
+  }
+  
+  h1 {
+    font-size: 2.5em; /* Large heading */
+    margin-bottom: 10px;
+    color: #222; /* Slightly darker heading color */
+  }
+  
+  nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    display: inline; /* Make list items horizontal */
+    margin: 0 15px; /* Add spacing between items */
+  }
+  
+  nav a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #555; /* Medium gray link color */
+    font-weight: 500; /* Slightly bolder font weight */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  nav a:hover {
+    color: #007bff; /* Blue hover color (you can change this) */
+  }
+  
+  /* Section Styles */
+  section {
+    padding: 40px 0;
+  }
+  
+  h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #222;
+    border-bottom: 1px solid #ddd; /* Subtle bottom border */
+    padding-bottom: 10px;
+  }
+  
+  /* Project/Work Item Styles (Example) */
+  .project {
+    margin-bottom: 30px;
+    border: 1px solid #eee;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05); /* Very subtle shadow */
+  }
+  
+  .project h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .project p {
+    margin-bottom: 15px;
+  }
+  
+  .project img {
+      max-width: 100%;
+      height: auto;
+      display: block; /* Prevents image from affecting layout */
+      margin-bottom: 15px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f0f0f0; /* Slightly darker background than body */
+    border-top: 1px solid #ddd;
+    color: #777;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+      .container {
+          padding: 10px;
+      }
+      nav li {
+          display: block;
+          margin: 10px 0;
+      }
+      h1 {
+          font-size: 2em;
+      }
+      h2 {
+          font-size: 1.5em;
+      }
+  }
