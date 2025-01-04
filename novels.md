@@ -4,8 +4,6 @@ title: Novels
 permalink: /novels/
 ---
 
-<h1>Novels</h1>
-
 {% assign novels = site.data.novels.novels %}
 <ul>
   {% for novel in novels %}
