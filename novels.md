@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: novel
 title: Novels
 permalink: /novels/
 ---
