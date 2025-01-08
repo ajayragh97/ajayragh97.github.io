@@ -29,14 +29,14 @@ Two figures materialized on the front lawn, their dark robes swirling
 around them as they landed gracefully. They were Aurors, Elara
 recognized, their wands held loosely but ready at their sides. One was a
 tall, imposing woman with sharp features and a no-nonsense demeanor.
-Elara recognised her with a sigh of relief, it was her contact, Auror
+Elara recognised her with a sigh of relief, it was her contact, Isabelle
 Hawthorne. The other was a younger man, his face earnest and focused.
 
 Elara opened the door before they could even knock, a small, weary smile
-gracing her lips. "Hawthorne," she greeted, relief evident in her voice.
+gracing her lips. "Isabelle," she greeted, relief evident in her voice.
 "Thank you for coming so quickly."
 
-"Elara," Hawthorne replied, her expression softening slightly as she met
+"Elara," Isabelle replied, her expression softening slightly as she met
 Elara's gaze. "When Dubois said it was you, I knew it was serious.
 What's the situation?"
 
@@ -47,8 +47,8 @@ had crafted during the call. "They took Tony and Eleanor," she
 explained, her voice trembling slightly. "We believe they were targeted
 for their... unique abilities."
 
-Auror Hawthorne's expression remained impassive, but Elara could see the
-wheels turning in her mind. "And you have reason to believe this was a
+Isabelle's expression remained impassive, but Elara could see the wheels
+turning in her mind. "And you have reason to believe this was a
 magically motivated attack?"
 
 "Yes," Elara confirmed, gesturing to the lingering magical residue in
@@ -65,17 +65,17 @@ premonition. She had a vision of where they might be held---a large
 warehouse, near the docks." She produced a sketch Eleanor had made, a
 surprisingly detailed rendering of a large, industrial building.
 
-Auror Hawthorne took the sketch, examining it closely. "This is...
-remarkable," she commented, clearly impressed by the level of detail.
-"This will be invaluable in our search. We'll focus our initial efforts
-on warehouses matching this description in the dock areas." She looked
-at Lily. "This communication device is also very helpful. However..."
+Isabelle took the sketch, examining it closely. "This is... remarkable,"
+she commented, clearly impressed by the level of detail. "This will be
+invaluable in our search. We'll focus our initial efforts on warehouses
+matching this description in the dock areas." She looked at Lily. "This
+communication device is also very helpful. However..."
 
 "Actually," Lily interjected, "Tony designed these devices to do more
 than just communicate. With three or more receivers, we can also
 triangulate their location."
 
-Auror Hawthorne exchanged a look with Auror Vance, a flicker of surprise
+Isabelle exchanged a look with Auror Vance, a flicker of surprise
 crossing her face. "That's... quite ingenious," she commented. "If you
 can provide us with the readings from the other receivers, we can
 pinpoint their location much more efficiently."
@@ -115,11 +115,11 @@ go. They could come after you, Elara, even the Millers. For your own
 safety, you need to leave the country. I know it's a lot to ask, but
 it's the only way to be truly safe.*
 
-Elara relayed these messages to Auror Hawthorne, her voice shaking with
-barely suppressed anger. The Aurors' reactions were immediate and
-visceral. Auror Vance's hand tightened around his wand, his knuckles
-turning white. Auror Hawthorne's expression hardened, her eyes flashing
-with a cold fury.
+Elara relayed these messages to Isabelle, her voice shaking with barely
+suppressed anger. The Aurors' reactions were immediate and visceral.
+Auror Vance's hand tightened around his wand, his knuckles turning
+white. Isabelle's expression hardened, her eyes flashing with a cold
+fury.
 
 "The No-Maj government... involved in this?" she said, her voice low and
 dangerous. "Kidnapping magical children? Using them for research?"
@@ -128,26 +128,26 @@ dangerous. "Kidnapping magical children? Using them for research?"
 Scourers are in direct violation of the Statute of Secrecy by working
 with No-Majs and exposing magic. This is... unspeakable."
 
-"This isn't just a kidnapping," Auror Hawthorne said, her voice now
-ringing with authority. "This is a serious breach of magical law, and a
-direct threat to the secrecy of our world."
+"This isn't just a kidnapping," Isabelle said, her voice now ringing
+with authority. "This is a serious breach of magical law, and a direct
+threat to the secrecy of our world."
 
 With the warehouse location pinpointed and the shocking information from
 Tony and Eleanor, the Aurors' focus shifted dramatically. This was no
 longer just a rescue mission; it was a counter-offensive against a
 deeply entrenched and dangerous enemy.
 
-Auror Hawthorne gathered the other Aurors who had arrived as backup,
-spreading a detailed map of the warehouse on the living room table.
-"Alright," she began, her voice crisp and commanding, but now with an
-edge of steel. "We've pinpointed the location. It's an abandoned
-warehouse near Pier 42. We believe there are six Scourers currently
-holding two individuals captive. Intelligence -- *vital intelligence* --
-suggests the Directorate, a clandestine organization with deep ties to
-the No-Maj government, will be arriving in one week. They are conducting
-illegal research on magical subjects, including children. Our plan is to
-execute the raid on the night of their arrival. This will give us the
-best chance to apprehend everyone involved, and expose their operation."
+Isabelle gathered the other Aurors who had arrived as backup, spreading
+a detailed map of the warehouse on the living room table. "Alright," she
+began, her voice crisp and commanding, but now with an edge of steel.
+"We've pinpointed the location. It's an abandoned warehouse near Pier
+42. We believe there are six Scourers currently holding two individuals
+captive. Intelligence -- *vital intelligence* -- suggests the
+Directorate, a clandestine organization with deep ties to the No-Maj
+government, will be arriving in one week. They are conducting illegal
+research on magical subjects, including children. Our plan is to execute
+the raid on the night of their arrival. This will give us the best
+chance to apprehend everyone involved, and expose their operation."
 
 She outlined the plan in detail, assigning specific roles to each Auror,
 detailing entry points, containment strategies, and extraction
@@ -155,8 +155,8 @@ procedures. The tension in the room was palpable as the Aurors listened
 intently, their faces grim and determined. The stakes had been raised
 considerably.
 
-Auror Hawthorne finished her briefing, her gaze sweeping across the
-faces of her team. "Any questions?" she asked.
+Isabelle finished her briefing, her gaze sweeping across the faces of
+her team. "Any questions?" she asked.
 
 A few hands went up, and she addressed each question with precision and
 clarity. When the last question was answered, she nodded firmly.
