@@ -28,20 +28,17 @@ ensuring she remained out of sight when the Aurors arrived.
 Two figures materialized on the front lawn, their dark robes swirling
 around them as they landed gracefully. They were Aurors, Elara
 recognized, their wands held loosely but ready at their sides. One was a
-tall, imposing woman with sharp features and a no-nonsense demeanor. The
-other was a younger man, his face earnest and focused.
+tall, imposing woman with sharp features and a no-nonsense demeanor.
+Elara recognised her with a sigh of relief, it was her contact, Auror
+Hawthorne. The other was a younger man, his face earnest and focused.
 
-Elara opened the door before they could even knock, ushering them inside
-quickly. Lily was in the living room, her face etched with worry. The
-room still bore the marks of the previous night's attack, the overturned
-furniture a stark reminder of the violence that had taken place. Ms.
-Ramirez was hidden in the kitchen, out of sight.
+Elara opened the door before they could even knock, a small, weary smile
+gracing her lips. "Hawthorne," she greeted, relief evident in her voice.
+"Thank you for coming so quickly."
 
-"Auror Hawthorne?" Elara asked, addressing the woman.
-
-"That's correct," the woman replied, her voice firm and authoritative.
-"I'm Auror Hawthorne, and this is Auror Vance. Agent Dubois informed us
-of your call. What's the situation?"
+"Elara," Hawthorne replied, her expression softening slightly as she met
+Elara's gaze. "When Dubois said it was you, I knew it was serious.
+What's the situation?"
 
 Elara quickly summarized the events of the previous night, focusing on
 the kidnapping and the magical nature of the attackers. She carefully
