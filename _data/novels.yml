@@ -1,8 +1,8 @@
 novels:
-  - title: Forged in Infinity
-    directory: forged_in_infinity
-    description: A story following Tony Stark reborn in a new world.
-    
-  - title: Pathways of Pangea
-    directory: pathways_of_pangea
-    description: A sci-fi tale of an orphaned boy with an unexpected destiny.
+  - title: "Forged in Infinity"
+    directory: "forged_in_infinity"
+    description: "A story following Tony Stark reborn in a new world."
+
+  - title: "Pathways of Pangea"
+    directory: "pathways_of_pangea"
+    description: "A sci-fi tale of an orphaned boy with an unexpected destiny."
