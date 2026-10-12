@@ -6,7 +6,7 @@ layout: novel
 <h1>Chapters</h1>
 
 <ul>
-  {% assign chapters = site.novels | where: "novel", page.dir | sort: "path" %}
+  {% assign chapters = site.novels | where: "novel", "pathways_of_pangea" | sort: "path" %}
   {% for chapter in chapters %}
     <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
   {% endfor %}
