@@ -17,11 +17,38 @@
   </div>
 
   <div class="chapter-nav">
-    {% if page.previous %}
-      <a href="{{ page.previous.url }}" class="prev-chapter">Previous Chapter: {{ page.previous.title }}</a>
+    {% assign sorted_chapters = site.novels | where: "novel", page.novel | sort: "path" %}
+
+    {% assign prev_url = false %}
+    {% assign prev_title = false %}
+    {% assign next_url = false %}
+    {% assign next_title = false %}
+    {% assign found_current = false %}
+
+    {% for chapter in sorted_chapters %}
+      {% if chapter.chapter_number %}
+        {% if found_current == false %}
+          {% if chapter.url == page.url %}
+            {% assign found_current = true %}
+          {% else %}
+            {% assign prev_url = chapter.url %}
+            {% assign prev_title = chapter.title %}
+          {% endif %}
+        {% else %}
+          {% if next_url == false %}
+            {% assign next_url = chapter.url %}
+            {% assign next_title = chapter.title %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if prev_url %}
+      <a href="{{ prev_url | relative_url }}" class="prev-chapter">Previous Chapter: {{ prev_title }}</a>
     {% endif %}
-    {% if page.next %}
-      <a href="{{ page.next.url }}" class="next-chapter">Next Chapter: {{ page.next.title }}</a>
+
+    {% if next_url %}
+      <a href="{{ next_url | relative_url }}" class="next-chapter">Next Chapter: {{ next_title }}</a>
     {% endif %}
   </div>
 
