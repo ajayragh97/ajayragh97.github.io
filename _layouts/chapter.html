@@ -17,12 +17,23 @@
   </div>
 
   <div class="chapter-nav">
-    {% if page.previous %}
-      <a href="{{ page.previous.url }}" class="prev-chapter">Previous Chapter: {{ page.previous.title }}</a>
-    {% endif %}
-    {% if page.next %}
-      <a href="{{ page.next.url }}" class="next-chapter">Next Chapter: {{ page.next.title }}</a>
-    {% endif %}
+    {% assign chapters = site.novels | where: "novel", page.novel | sort: "chapter_number" %}
+    
+    {% for chapter in chapters %}
+      {% if chapter.url == page.url %}
+        {% assign current_index = forloop.index0 %}
+        {% assign prev_index = current_index | minus: 1 %}
+        {% assign next_index = current_index | plus: 1 %}
+
+        {% if prev_index >= 0 %}
+          <a href="{{ chapters[prev_index].url }}" class="prev-chapter">Previous Chapter: {{ chapters[prev_index].title }}</a>
+        {% endif %}
+
+        {% if next_index < chapters.size %}
+          <a href="{{ chapters[next_index].url }}" class="next-chapter">Next Chapter: {{ chapters[next_index].title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
   </div>
 
   </body>
