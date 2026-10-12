@@ -1,16 +1,13 @@
 ---
 title: Pathways of Pangea
 layout: novel
-permalink: /novels/pathways_of_pangea/
 ---
 
 <h1>Chapters</h1>
 
 <ul>
-  {% assign sorted_chapters = site.novels | where: "novel", "pathways_of_pangea" | sort: "chapter_number" %}
-  {% for chapter in sorted_chapters %}
-    {% if chapter.chapter_number %}
-      <li><a href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a></li>
-    {% endif %}
+  {% assign chapters = site.novels | where: "novel", page.dir | sort_by_number: "chapter_number" %}
+  {% for chapter in chapters %}
+    <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
   {% endfor %}
 </ul>
