@@ -6,51 +6,65 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-  </head>
+</head>
 <body>
+    <!-- Re-using the unified header so readers can go back home easily -->
+    <header class="site-header">
+        <div class="nav-container">
+            <h1><a href="{{ site.url | relative_url }}" class="site-logo">{{ site.title }}</a></h1>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/about' | relative_url }}">About</a></li>
+                    <li><a href="{{ '/novels' | relative_url }}">All Novels</a></li>  
+                </ul>
+            </nav>
+        </div>
+    </header>
 
-  <h1>{{ page.title }}</h1>
-  <div class="chapter-content">
-    {{ content }}
-  </div>
+    <main class="reading-container fade-in">
+        <h1 class="chapter-title">{{ page.title }}</h1>
+        
+        <article class="chapter-content">
+            {{ content }}
+        </article>
 
-  <div class="chapter-nav">
-    {% assign sorted_chapters = site.novels | where: "novel", page.novel | sort: "path" %}
+        <!-- Dynamic Next/Prev buttons from your previous setup -->
+        <div class="chapter-nav">
+            {% assign sorted_chapters = site.novels | where: "novel", page.novel | sort: "path" %}
+            {% assign prev_url = false %}{% assign prev_title = false %}
+            {% assign next_url = false %}{% assign next_title = false %}
+            {% assign found_current = false %}
+            {% for chapter in sorted_chapters %}
+              {% if chapter.chapter_number %}
+                {% if found_current == false %}
+                  {% if chapter.url == page.url %}
+                    {% assign found_current = true %}
+                  {% else %}
+                    {% assign prev_url = chapter.url %}
+                    {% assign prev_title = chapter.title %}
+                  {% endif %}
+                {% else %}
+                  {% if next_url == false %}
+                    {% assign next_url = chapter.url %}
+                    {% assign next_title = chapter.title %}
+                  {% endif %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
 
-    {% assign prev_url = false %}
-    {% assign prev_title = false %}
-    {% assign next_url = false %}
-    {% assign next_title = false %}
-    {% assign found_current = false %}
+            <div class="nav-buttons">
+                {% if prev_url %}
+                  <a href="{{ prev_url | relative_url }}" class="btn outline">← {{ prev_title }}</a>
+                {% endif %}
+                {% if next_url %}
+                  <a href="{{ next_url | relative_url }}" class="btn primary">{{ next_title }} →</a>
+                {% endif %}
+            </div>
+        </div>
+    </main>
 
-    {% for chapter in sorted_chapters %}
-      {% if chapter.chapter_number %}
-        {% if found_current == false %}
-          {% if chapter.url == page.url %}
-            {% assign found_current = true %}
-          {% else %}
-            {% assign prev_url = chapter.url %}
-            {% assign prev_title = chapter.title %}
-          {% endif %}
-        {% else %}
-          {% if next_url == false %}
-            {% assign next_url = chapter.url %}
-            {% assign next_title = chapter.title %}
-          {% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% if prev_url %}
-      <a href="{{ prev_url | relative_url }}" class="prev-chapter">Previous Chapter: {{ prev_title }}</a>
-    {% endif %}
-
-    {% if next_url %}
-      <a href="{{ next_url | relative_url }}" class="next-chapter">Next Chapter: {{ next_title }}</a>
-    {% endif %}
-  </div>
-
-  </body>
+</body>
 </html>
