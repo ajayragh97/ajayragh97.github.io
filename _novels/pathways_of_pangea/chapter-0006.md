@@ -37,154 +37,129 @@ There it was. It wasn't his imagination on the bus. Faint, neon-blue lines were 
 
 He unclenched his hands, actively willing the energy to retract, breaking the mental circuit. The glow faded instantly, draining back into his chest. 
 
-A profound realization hit him. He wasn't just a battery storing this strange fuel. His body had its own internal wiring designed to use it. But right now, that wiring felt tight, stretched, and painfully full, like a dam holding back an ocean of pressurized water. If he didn't find a way to bleed off this excess energy, he felt like he might actually burst. 
+A profound realization hit him. He wasn't just a battery storing this strange fuel. His body had its own internal wiring designed to use it. But right now, that wiring felt tight, stretched, and painfully full, like a dam holding back an ocean of pressurized water. If he didn't find a way to bleed off this excess energy, he felt like he might actually burst.
 
-He threw on a clean pair of jeans and a grey t-shirt and headed downstairs to the kitchen. 
+Knowing there were still almost two hours before the rest of the house woke up, Lukas quietly grabbed a sketchbook and spent the time drafting schematics, letting his hyper-active brain burn off some of the excess focus.
+By 7:15 AM, the sounds of controlled chaos echoed from downstairs. The orphanage was awake. He threw on a clean pair of jeans and a grey t-shirt and headed downstairs to the kitchen. 
 
-The chaos of the orphanage was already in full swing, but when Lukas entered the dining area, he noticed the immediate shift in his friends. 
+The chaos of the orphanage was already in full swing, it was bustling with younger kids pouring cereal and fighting over the last banana. He grabbed a plate of eggs and sat down.
 
-Julian was staring blankly at a bowl of cereal, twitching every time someone dropped a spoon. Devan was doing standing calf raises while spreading peanut butter on toast, looking over his shoulder toward the windows with an uncharacteristic wariness. 
+Five minutes later, Clara stumbled into the kitchen. She looked like a walking corpse. Her hair was a messy bird's nest, her eyes were bloodshot, and she practically collapsed onto the bench next to Lukas, burying her face in her arms. She hadn't slept at all. 
 
-And Clara... Clara looked terrible. Her hair was a bird's nest, her eyes were bloodshot, and there was a faint smear of dark soil across her left cheek. She clearly hadn't slept a wink. 
+Before Lukas could ask if she was okay, Mr. Mike walked in, carrying the local morning paper. He poured himself a mug of black coffee, but his usual cheerful demeanor was replaced by a stern, grounded look.
 
-"Morning," Lukas said, grabbing a stack of four plain waffles and sliding onto the bench next to her. 
+"Morning," Mr. Mike said, tapping the folded paper against the table to get their attention. "Listen to me, you two. When you go to school today, I want you staying on campus. Don't go hanging around in the woods behind the athletic fields during lunch."
 
-"It metabolizes copper," Clara whispered instantly, not even looking up from her empty coffee mug. 
+"Why?" Lukas asked, forcing his voice to sound completely casual.
 
-"What?" Lukas paused, syrup halfway to his plate. 
+"Utility crews were out there late last night," Mr. Mike explained, his eyes locking onto Lukas. "Police taped a huge section off. The official statement says an old buried gas line ruptured and caused a localized sinkhole right behind the school fence."
 
-"The root," she mumbled, keeping her voice incredibly low. "I set up the terrarium at 2 AM. I sprinkled some crushed penny-shavings into the soil to test for mineral absorption. Lukas... it extended those little tendrils, pulled the copper down, and dissolved it. In an hour. The cell structure of that thing is converting solid metal into kinetic energy to move." She finally looked at him, her eyes burning with a mixture of terror and awe. "Do you realize what this means for biofuel engineering? If I can chart the enzymatic breakdown—"
+Clara froze, lifting her head slowly off her arms.
 
-"Clara," Lukas interrupted softly. "You have dirt on your face."
+A sinkhole. Lukas thought, hiding a grimace. They dug up the crater to erase the evidence.
 
-Clara blinked, furiously scrubbing her cheek with the back of her sleeve. 
+"We won't go near it," Lukas promised. Mr. Mike gave him a long, measuring look, nodded once, and went to check on the younger kids in the living room.
 
-"Morning, boys!" Mr. Mike’s booming, cheerful voice cut through their hushed panic as he entered the kitchen from the hallway. He was carrying a stack of local newspapers. He set them down on the end of the long dining table and started pouring himself a large mug of black coffee. 
+Lukas nudged Clara gently with his elbow. "Come on. We need to catch the bus."
 
-The four of them instantly stiffened, adopting terrible facades of 'perfectly normal teenagers.' 
+At 7:30 AM, they walked down the suburban sidewalk to the neighborhood bus stop. Julian was already there, hunched over his handheld console in his grey hoodie. A moment later, Devan arrived. He didn't look nearly as exhausted as the rest of them. He stood naturally balanced, leaning lightly against the bus stop sign while tossing a water bottle from hand to hand.
 
-"Morning, Mike," Lukas managed to say, stuffing half a waffle into his mouth. The moment the food hit his stomach, a ravenous, bottomless hunger roared to life inside him. The energy in his chest was acting like a hyper-efficient furnace, demanding calories. He inhaled the rest of the waffle in two seconds. 
+"Look at the local news on your phones," Lukas said in a low voice the second they were grouped together. "Gas leak. A sinkhole in the woods behind the school."
 
-Mr. Mike turned around, pausing as his eyes landed on Lukas. 
+Devan stopped tossing the bottle. "They took the crater."
 
-He didn't say anything at first. He just looked closely at Lukas’s face, his posture, and then down at the rapidly disappearing stack of waffles. The faint laugh lines around the older man's eyes tightened imperceptibly. 
+"They're sweeping the area," Clara whispered. She looked at the three boys, her pale face suddenly looking terrifyingly alert. "Guys... the root."
 
-"You're eating a lot this morning, kiddo," Mr. Mike noted, taking a sip of his coffee. "And you look... flushed. Not catching a fever, are you?"
+"Did it die?" Julian asked hopefully, pausing his game.
 
-"I feel great," Lukas said quickly, perhaps a bit too quickly. "Just hungry. Growth spurt, maybe."
+"No," Clara swallowed hard. "I set it up in a sealed glass terrarium last night with normal potting soil. But I was exhausted, and I accidentally dropped my small steel pruning scissors into the dirt inside. When I checked it at five this morning... the root had wrapped its tendrils entirely around the metal. It’s dissolving the steel."
 
-"Mm," Mr. Mike hummed, leaning against the counter. He reached out and tapped the front page of the Oakhaven Daily newspaper he had just brought in. "Well, take the bus today. Don't go taking shortcuts through the woods behind the high school."
+Devan stared at her. "Wait. It's eating solid metal?"
 
-Julian dropped his spoon. It clattered loudly against his porcelain bowl. 
+"It’s metabolizing it," Clara corrected, her voice trembling. "It completely violates cellular biology on this planet. It’s breaking down the iron alloy into kinetic energy so it can move. It stripped a millimeter off the scissors in a few hours."
 
-Devan stopped doing calf raises. 
+"Clara, you brought your heavy steel soup thermos today, right?" Lukas asked, eyeing her backpack. He had explicitly told her to put it in a lead-lined container to hide its signature from scanners, but the steel thermos had been the closest thing they had on hand.
 
-"Why?" Lukas asked, forcing himself to swallow the dry lump in his throat. 
+"It’s inside it," she confirmed, patting her bag. "Sealed airtight. I brought it so I can observe it during biology period. I need to know how fast the cellular breakdown is happening."
 
-"Gas leak," Mr. Mike said casually, though his eyes never left Lukas’s face. "The utility companies had crews out there late last night, tearing up a section of the dirt. Police taped it off. The official statement says an old buried pipeline ruptured and collapsed into a sinkhole."
+Before Julian could protest the sheer insanity of bringing an alien, metal-eating weed to a high school, the yellow bus squeaked to a halt in front of them.
 
-Clara kicked Lukas sharply under the table. 
-
-"A sinkhole," Lukas repeated flatly. *They dug up the crater. They were erasing the evidence of the rock's impact.* 
-
-"That's the story," Mr. Mike sighed, picking up his mug and heading toward the living room to break up a fight over the television remote. Just before he passed through the archway, he stopped and looked back. "You four stick to the main roads today. Understand?"
-
-It wasn't a suggestion. It was an order, laced with a very subtle, uncharacteristic edge of protectiveness. 
-
-"Understood, Mr. Mike," Devan said smoothly. 
-
-Once he was gone, Julian put his head down on the table. "They dug up the woods. We are being hunted by the shadow government. I'm too young to be a political prisoner."
-
-"Get a grip, Jules," Devan hissed. "They don't know it was us. If they did, that black van would be parked outside the orphanage right now, not the school." 
-
-"Devan is right. Just act natural," Lukas said, polishing off his fourth waffle. He was still hungry. "We just need to get through the day without doing anything weird."
 
 ***
 
-Getting through the day without doing anything weird proved to be nearly impossible. 
+Getting through the day without doing anything weird proved to be nearly impossible for Lukas.
 
-The high-voltage energy humming inside Lukas wasn't just sitting passively anymore. It was awake, and it was deeply reactive to his emotions and his physical environment. 
+The high-voltage energy humming inside him wasn't just sitting passively. It felt like walking around with a loaded, hair-trigger spring inside his chest.
 
-During first period Algebra, when Mr. Harrison unexpectedly handed out a pop quiz, Lukas felt a spike of stress. In response, a massive jolt of static discharged from his fingertips, completely frying the digital display of his graphing calculator. The screen permanently went black, smelling faintly of melting plastic. 
+During third-period gym, it finally slipped. They were playing a casual game of basketball. Julian was sitting up in the bleachers avoiding the game, while Devan and Lukas were on the court.
 
-During third period gym class, Devan dragged him into a game of basketball. When Lukas went for a completely standard chest pass to Julian, he accidentally engaged the new 'muscle' in his chest. The basketball launched from his hands with the speed of a cannonball, blasting completely through Julian’s waiting hands, striking the wooden bleachers, and cracking a plank completely in half. Julian spent the rest of the period with deeply bruised palms, staring at Lukas like he was a monster. 
+Lukas was just trying to jog and blend in, but the energy inside him demanded to be used. When Devan tossed him a solid, heavy pass, Lukas caught the ball and immediately threw it back.
 
-By the time Study Hall rolled around during the sixth period, Lukas was entirely exhausted, not physically, but mentally. It took constant, grueling focus to keep the dam inside him from leaking. Every time his mind wandered, he would feel the heat rising and see his fingertips threatening to glow. 
+But he didn't just throw it. He accidentally engaged that new 'muscle' in his chest.
 
-He sat alone at a table in the corner of the Oakhaven High library, taking slow, measured breaths. 
+The basketball left Lukas's hands with the terrifying speed of a cannonball. Devan’s natural reflexes saved him; he ducked hard, getting his head out of the way just in time.
 
-*Treat it like a closed circuit,* he chanted internally, visualizing a grounded wire in his mind. *Add resistance. Do not let the current flow.* 
+The ball missed him by an inch, shot across the gym, and slammed into the solid metal double-doors at the far end of the court with a deafening, booming CRASH. The heavy metal door buckled inward with a loud groan, leaving a visible, perfectly round dent in the steel.
 
-He opened his notebook to distract himself, pulling a heavy, metallic fountain pen from his pocket. It was an old gift from Mr. Mike, solid brass, and comforting in its weight. 
+The entire gym went dead silent. The gym teacher dropped his whistle. Up on the bleachers, Julian’s jaw dropped open.
 
-He placed it on the desk. 
+"Uh," Lukas stammered, his palms tingling fiercely. "Lucky throw?"
 
-Without warning, the brass pen vibrated. 
+He spent the rest of the period sitting on the bleachers next to Julian, explicitly banned from touching the sports equipment.
 
-Lukas froze. He didn't touch it. His hands were flat on his knees. 
+By the time Study Hall rolled around during the sixth period, Lukas was entirely exhausted. Not physically, but mentally. It took constant, grueling focus to keep the dam inside him from leaking.
 
-Slowly, impossibly, the heavy metal pen began to roll. It rolled across the wooden desk, defying gravity by moving slightly *uphill* toward his torso. 
+He sat alone at a table in the corner of the Oakhaven High library, taking slow, measured breaths. He pulled his heavy, solid brass fountain pen from his pocket to try and focus on some math homework. He placed the pen on the wooden desk.
 
-Lukas watched in horror as his own ambient, leaking energy exerted a kinetic pull on the object. 
+Without warning, the pen vibrated.
 
-*Stop,* Lukas commanded his body, panicked. *Shut off.* 
+Lukas froze, his hands flat on his knees.
 
-Instead of stopping, the pen hit the edge of his notebook, lifted roughly half an inch off the desk into thin air, and hovered there, vibrating rapidly in the empty space between the desk and Lukas’s chest. 
+Slowly, the heavy metal pen began to roll across the desk. But it was moving slightly uphill toward Lukas’s chest. The ambient energy leaking from his body was exerting a tiny, kinetic pull on the object.
+The pen hit the edge of his notebook, lifted roughly a quarter of an inch off the desk into thin air, and hovered there.
 
-"Fascinating," a voice whispered right behind his ear. 
+"Fascinating," a quiet voice noted right beside him.
 
-Lukas violently flinched. His concentration shattered. The invisible kinetic tether snapped, and the heavy brass pen slammed back down onto the wooden desk with a loud, metallic clack. 
+Lukas flinched. The invisible kinetic tether snapped, and the pen slammed back down onto the desk with a clack.
 
-Elena slid quietly into the empty wooden chair opposite him. She wasn't carrying her heavy binder today, just a single textbook and a cup of lukewarm cafeteria tea. She looked at the pen, then at Lukas, her dark eyes completely unreadable. 
+Elena pulled out the chair opposite him and sat down. She wasn't carrying her heavy binder today, just a single notebook.
 
-"Electro-magnetism?" she asked quietly, resting her elbows on the table. 
+"Electro-magnetism?" she asked quietly.
 
-"It just fell out of my hand," Lukas lied, grabbing the pen and shoving it back into his pocket. His heart was hammering. The energy in his chest flared in response to his panic, desperately wanting to discharge. He clamped his hands under the table, gripping the fabric of his jeans so tightly his knuckles turned white. 
+"It just fell out of my hand," Lukas lied, grabbing the pen and shoving it into his pocket.
 
-"Brass is a non-ferrous metal, Lukas," Elena pointed out flawlessly. "It cannot be magnetized. Yet, it just defied localized gravity for approximately 1.4 seconds before your parasympathetic nervous system reacted to my presence." 
+"Brass is a non-ferrous alloy, Lukas," Elena pointed out, her dark eyes pinning him to his seat. "It cannot be magnetized. Yet, it just defied gravity."
 
-"You're seeing things, Elena. Must be lack of sleep from tracking those radio-jammers." 
+"Must be a static illusion," he muttered.
 
-She didn't take the bait. She leaned closer across the table. Her immaculate, neat appearance—the pressed white sweater, the perfectly clipped bob—made the raw intensity of her curiosity feel deeply unsettling. 
+She leaned closer across the table. Her immaculate, neat appearance made the sharp, calculating look in her eyes even more intimidating.
 
-"I don't care about your secrets, Lukas," she whispered, her voice barely carrying over the quiet hum of the library. "If you found something you shouldn't have, I won't tell the administration. I have absolutely no loyalty to Oakhaven High or its archaic rules."
+"Yesterday, you blew a diode with a power source set to zero volts," she began, her voice perfectly level. "Later, you and your friends ran out of the woods. Ten minutes later, a specialized van sweeps the school for a dense anomaly. Today, the morning paper reports a 'sinkhole' exactly where you were running from. And now, you're manipulating mass without a physical conduit."
 
-Lukas swallowed hard. "Then what do you want?" 
+Lukas stared at her. She had built a complete, logical case just by watching him.
 
-"I want the data," she said bluntly. "You went into the woods yesterday. Your friend, the tall Maluran boy, was watching the tree line right before a seismic anomaly was detected on my ground-sensors. Five minutes later, an IMSI Catcher sweeps the school for high-density materials." 
+"I don't care about school rules, and I don't care if you trespassed," Elena whispered, her voice barely carrying over the quiet library. "I'm applying to the Meridian Central astrophysics program next year. If you found something out there that defies Newton's laws... I want to study it."
 
-She reached out and tapped a single finger against the wooden table. 
+Before Lukas could figure out how to respond, the shrill scream of a fire alarm tore through the library.
 
-"Whatever came from the sky yesterday didn't originate from our atmosphere. And whatever you have in your backpack is somehow tethering kinetic force." She locked eyes with him, an unapologetic fire in her gaze. "I'm applying for the astrophysics program at Meridian Central next year. If there is anomalous gravitational or multiversal data in this town, I want to be part of the team observing it."
+It wasn't the rhythmic beep of a standard test. It was an endless, shrieking klaxon.
 
-Lukas stared at her. She wasn't threatening to expose them; she wanted in. She had connected half the dots on her own, purely through math and stubborn observation, and now she was demanding a seat at a table that Lukas didn't even know how to set. 
+Over the intercom, Principal Harrison’s voice broke through the alarm. It lacked its usual boring drone. It sounded deeply panicked.
 
-Before he could answer her, before he could deny everything or crack under the pressure, the shrill scream of a fire alarm tore through the library. 
+"Code Red lockdown," the voice trembled. "All students, stay in your classrooms. Evacuate the science wing immediately. I repeat, we have a containment breach in the biology lab! Code Red!"
 
-It wasn't a drill. It wasn't the rhythmic *beep-beep* of a standard test. 
+Lukas and Elena both jumped to their feet.
 
-It was an endless, shrieking klaxon. The library’s heavy magnetic fire-doors at the far end of the room slammed shut simultaneously, sealing the quiet section off. 
+Elena frowned, her logic failing to find an immediate answer. "A biology lab? Our science department barely has functioning microscopes. What containment breach?"
 
-Over the intercom, Principal Harrison’s voice broke through the wailing alarm, entirely devoid of its usual boring drone. It was panicked. 
+Lukas felt his blood run entirely cold.
 
-"Code Red lockdown," the voice trembled. "All students, stay in your classrooms. Evacuate the science wing immediately. I repeat, this is a localized biological hazard alert. All staff, seal the bio-lab!" 
+*Clara.*
 
-Lukas and Elena both jumped to their feet. 
+It dissolves metal to move, Clara had said this morning.
 
-"Biological hazard?" Elena frowned, her cool demeanor fracturing. 
+The inner lining of her sealed thermos was made entirely of stainless steel.
 
-Lukas felt his blood run entirely cold. The science wing. The biology lab. 
+"Oh, no," Lukas breathed. The energy inside his chest flared, completely overriding his control.
 
-*Clara.* 
-
-"Oh, God," Lukas breathed. He remembered Clara walking into school that morning carrying her heavy plastic thermos—a thermos she usually used for soup, perfectly sealed and airtight, which currently contained the purple, mutating root. 
-
-"Clara’s in the bio-lab," Lukas said, shoving past Elena, his fear finally snapping the internal dam completely. 
-
-As he slammed his hands against the library’s heavy, locked double doors, the energy trapped inside his chest surged downward. He didn't push it; it moved on its own instinct. 
-
-With a deafening *CRUNCH*, the steel locking mechanisms of the heavy magnetic doors shattered. The heavy wood doors flew off their hinges, blown completely outward into the hallway by an invisible, localized wave of pure kinetic force. 
-
-Elena stared at the shattered doorway, then looked at Lukas, the notebook dropping entirely from her hand. 
-
-Lukas didn't wait to explain. He bolted down the corridor, the energy inside him singing as he ran toward the chaos.
+Without a word to Elena, Lukas bolted out of the library, sprinting down the hallway toward the science wing, his fists glowing with a faint, terrible blue light.
