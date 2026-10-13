@@ -5,7 +5,7 @@ novel: pathways_of_pangea
 layout: chapter
 ---
 
-# Chapter 5: Archimedes and the Alien Soil
+# Chapter 5: Archimedes and the Alien Rock
 
 The shed behind the Oakhaven Orphanage wasn't much to look at from the outside. It was a weather-beaten structure of peeling white paint and rusted corrugated iron, originally meant for lawnmowers and rakes. 
 
