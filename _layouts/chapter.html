@@ -1,38 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    {% include head.html %}
 </head>
-<body>
-    <!-- Re-using the unified header so readers can go back home easily -->
-    <header class="site-header">
-        <div class="nav-container">
-            <h1><a href="{{ site.url | relative_url }}" class="site-logo">{{ site.title }}</a></h1>
-            <nav>
-                <ul class="nav-links">
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                    <li><a href="{{ '/about' | relative_url }}">About</a></li>
-                    <li><a href="{{ '/novels' | relative_url }}">All Novels</a></li>  
-                </ul>
-            </nav>
-        </div>
-    </header>
+<body class="chapter-body">
+    <!-- Reading Progress Bar -->
+    <div id="reading-progress" class="reading-progress-indicator" aria-hidden="true"></div>
+
+    {% include header.html %}
 
     <main class="reading-container fade-in">
-        <h1 class="chapter-title">{{ page.title }}</h1>
+        <!-- Novel Breadcrumbs & Reader Toolbar -->
+        <div class="reading-toolbar">
+            <nav class="reading-breadcrumbs" aria-label="Breadcrumb">
+                <a href="{{ '/' | relative_url }}">Home</a>
+                <span class="crumb-separator">/</span>
+                <a href="{{ '/novels' | relative_url }}">AI Novels</a>
+                <span class="crumb-separator">/</span>
+                {% if page.novel == 'forged_in_infinity' %}
+                    <a href="{{ '/novels/forged_in_infinity/' | relative_url }}">Forged in Infinity</a>
+                {% elsif page.novel == 'pathways_of_pangea' %}
+                    <a href="{{ '/novels/pathways_of_pangea/' | relative_url }}">Pathways of Pangea</a>
+                {% else %}
+                    <a href="{{ '/novels' | relative_url }}">{{ page.novel | replace: '_', ' ' | capitalize }}</a>
+                {% endif %}
+                <span class="crumb-separator">/</span>
+                <span class="current-crumb">{{ page.title }}</span>
+            </nav>
+
+            <div class="reader-controls">
+                <div class="font-size-adjusters" title="Adjust font size">
+                    <button id="font-decrease" class="reader-control-btn" aria-label="Decrease Font Size">A-</button>
+                    <button id="font-reset" class="reader-control-btn" aria-label="Reset Font Size">A</button>
+                    <button id="font-increase" class="reader-control-btn" aria-label="Increase Font Size">A+</button>
+                </div>
+                <button id="font-family-toggle" class="reader-control-btn font-family-btn" title="Toggle Sans/Serif Font">
+                    <span id="font-family-label">Serif</span>
+                </button>
+            </div>
+        </div>
+
+        <header class="chapter-header">
+            <span class="chapter-novel-badge">
+                {% if page.novel == 'forged_in_infinity' %}
+                    Forged in Infinity
+                {% elsif page.novel == 'pathways_of_pangea' %}
+                    Pathways of Pangea
+                {% else %}
+                    {{ page.novel | replace: '_', ' ' | capitalize }}
+                {% endif %}
+            </span>
+            <h1 class="chapter-title">{{ page.title }}</h1>
+        </header>
         
-        <article class="chapter-content">
+        <article id="chapter-reading-area" class="chapter-content reading-mode-content">
             {{ content }}
         </article>
 
-        <!-- Dynamic Next/Prev buttons from your previous setup -->
-        <div class="chapter-nav">
+        <!-- Chapter Navigation (Previous / Table of Contents / Next) -->
+        <div class="chapter-nav-wrapper">
             {% assign sorted_chapters = site.novels | where: "novel", page.novel | sort: "path" %}
             {% assign prev_url = false %}{% assign prev_title = false %}
             {% assign next_url = false %}{% assign next_title = false %}
@@ -55,16 +81,43 @@
               {% endif %}
             {% endfor %}
 
-            <div class="nav-buttons">
+            <div class="chapter-nav-buttons">
                 {% if prev_url %}
-                  <a href="{{ prev_url | relative_url }}" class="btn outline">← {{ prev_title }}</a>
+                    <a href="{{ prev_url | relative_url }}" class="nav-btn prev-btn">
+                        <span class="btn-subtext">&larr; Previous</span>
+                        <span class="btn-maintext">{{ prev_title }}</span>
+                    </a>
+                {% else %}
+                    <div class="nav-btn-placeholder"></div>
                 {% endif %}
+
+                {% if page.novel == 'forged_in_infinity' %}
+                    <a href="{{ '/novels/forged_in_infinity/' | relative_url }}" class="nav-btn toc-btn" title="View all chapters">
+                        <span class="btn-subtext">Index</span>
+                        <span class="btn-maintext">Chapters</span>
+                    </a>
+                {% elsif page.novel == 'pathways_of_pangea' %}
+                    <a href="{{ '/novels/pathways_of_pangea/' | relative_url }}" class="nav-btn toc-btn" title="View all chapters">
+                        <span class="btn-subtext">Index</span>
+                        <span class="btn-maintext">Chapters</span>
+                    </a>
+                {% endif %}
+
                 {% if next_url %}
-                  <a href="{{ next_url | relative_url }}" class="btn primary">{{ next_title }} →</a>
+                    <a href="{{ next_url | relative_url }}" class="nav-btn next-btn">
+                        <span class="btn-subtext">Next &rarr;</span>
+                        <span class="btn-maintext">{{ next_title }}</span>
+                    </a>
+                {% else %}
+                    <div class="nav-btn-placeholder"></div>
                 {% endif %}
             </div>
         </div>
     </main>
 
+    {% include footer.html %}
+
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/reader.js' | relative_url }}"></script>
 </body>
 </html>

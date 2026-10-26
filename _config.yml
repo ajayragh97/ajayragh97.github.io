@@ -1,8 +1,11 @@
 title: Ajay Ragh
-description: A simple portfolio and blog
+description: Doctoral Researcher in Mobile Robotics at the University of Bonn. Researching factor graph optimization, sparse radar SLAM, and trajectory estimation.
 author: Ajay Ragh
+email: ajayragh97@gmail.com
 url: "https://ajayragh97.github.io"
-theme: jekyll-theme-cayman
+github_username: ajayragh97
+linkedin_username: ajay-ragh
+institution: "University of Bonn"
 
 collections:
   novels:
@@ -11,4 +14,4 @@ collections:
     fields:
       - title
       - chapter_number
-      - novel # Add novel here
+      - novel

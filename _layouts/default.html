@@ -1,40 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <!-- Modern Google Fonts: Poppins for headings, Inter for body text -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    {% include head.html %}
 </head>
 <body>
-    <!-- Sticky Glassmorphism Header -->
-    <header class="site-header">
-        <div class="nav-container">
-            <h1><a href="{{ site.url | relative_url }}" class="site-logo">{{ site.title }}</a></h1>
-            <nav>
-                <ul class="nav-links">
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                    <li><a href="{{ '/about' | relative_url }}">About</a></li>
-                    <li><a href="{{ '/blog' | relative_url }}">Blog</a></li>
-                    <li><a href="{{ '/novels' | relative_url }}">Novels</a></li>  
-                </ul>
-            </nav>
-        </div>
-    </header>
+    {% include header.html %}
 
     <main class="container page-content fade-in">
-        {% if page.url != '/' and page.url != '/index.html' %}
+        {% if page.url != '/' and page.url != '/index.html' and page.show_title != false %}
             <h1 class="page-title">{{ page.title }}</h1>
         {% endif %}
         {{ content }}
     </main>
 
-    <footer class="site-footer">
-        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
-    </footer>
+    {% include footer.html %}
+
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
