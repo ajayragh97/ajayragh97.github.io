@@ -78,9 +78,9 @@ Devan stared at her. "Wait. It's eating solid metal?"
 
 "It’s metabolizing it," Clara corrected, her voice trembling. "It completely violates cellular biology on this planet. It’s breaking down the iron alloy into kinetic energy so it can move. It stripped a millimeter off the scissors in a few hours."
 
-"Clara, you brought your heavy steel soup thermos today, right?" Lukas asked, eyeing her backpack. He had explicitly told her to put it in a lead-lined container to hide its signature from scanners, but the steel thermos had been the closest thing they had on hand.
+"Wait—why didn't you leave it secured in the lead box in the shed?" Lukas hissed, eyeing her backpack. 
 
-"It’s inside it," she confirmed, patting her bag. "Sealed airtight. I brought it so I can observe it during biology period. I need to know how fast the cellular breakdown is happening."
+"The lead box weighs fifteen pounds, Lukas! I couldn't haul a clunky battery casing past Mr. Mike and onto a school bus without him asking questions," Clara whispered defensively. "The root went completely dormant after chewing on the scissors, so I transferred it into my insulated steel thermos just for sixth period. It was airtight. I needed to see if it would react to the light or temperature in the lab."
 
 Before Julian could protest the sheer insanity of bringing an alien, metal-eating weed to a high school, the yellow bus squeaked to a halt in front of them.
 

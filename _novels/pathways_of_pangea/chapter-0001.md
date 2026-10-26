@@ -16,7 +16,7 @@ He tweaked the focus knob. The blurred white smear in the lens snapped into a cr
 
 "Still just rock," Lukas murmured to himself, leaning back with a quiet sigh. 
 
-He rubbed his eyes with fingers that were roughened and calloused, scarred by the occasional slip of a wire cutter or the sudden bite of hot solder. At fifteen—or at least, he would officially be fifteen in about ten minutes—Lukas was lanky, all elbows and knees, still waiting for his frame to catch up with his height. 
+He rubbed his eyes with fingers that were roughened and calloused, scarred by the occasional slip of a wire cutter or the sudden bite of hot solder. At fifteen—or at least, officially fifteen as far as the orphanage records were concerned, since Mr. Mike had simply designated the day he found him as his birthday—Lukas was lanky, all elbows and knees, still waiting for his frame to catch up with his height. 
 
 The air tonight felt different. It was mid-autumn, but the breeze carrying the scent of pine needles from the distant mountain range felt heavy. It wasn't humid, exactly, but the atmosphere felt... *thick*. Every few minutes, a low hum of static would buzz through the headphones around his neck, interrupting the usual white noise of the radio waves he liked to monitor. 
 
@@ -44,7 +44,7 @@ Mr. Mike’s smile faltered, just for a fraction of a second. It was a subtle sh
 
 "Is everything okay?" Lukas asked. 
 
-Mr. Mike blinked, the warmth instantly returning to his features. "Of course. Just... reminiscing. Fifteen years. It feels like yesterday I heard you wailing from that alleyway behind the old bakery. It was a night just like this one, actually. The air felt heavy. The weather was strange." He reached out, his large, rough hand squeezing Lukas's shoulder. "You've grown into a fine young man, Lukas. I know you've got your sights set on Meridian University. You're going to build incredible things."
+Mr. Mike blinked, the warmth instantly returning to his features. "Of course. Just... reminiscing. Ten years. It feels like yesterday I found you shivering behind the old bakery—a frightened five-year-old kid who didn't even know his own name. It was a night just like this one, actually. The air felt heavy. The weather was strange." He reached out, his large, rough hand squeezing Lukas's shoulder. "You've grown into a fine young man, Lukas. I know you've got your sights set on Meridian University. You're going to build incredible things."
 
 "If I can scrape together the scholarship money," Lukas muttered, looking down at his mug. "And pass advanced calculus."
 

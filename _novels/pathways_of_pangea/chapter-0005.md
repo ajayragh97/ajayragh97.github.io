@@ -19,7 +19,7 @@ He unshouldered his backpack and let it drop onto the sturdy wooden bench. It la
 
 Devan instantly slid the heavy iron bolt into place, locking them in. He peeked through the dusty, spider-webbed window facing the street. "No black vans. No drones. We’re clear for now."
 
-Julian pulled his hood down, his eyes darting around the cramped space. He always looked a little nervous in Lukas's shed, usually because he was afraid of accidentally leaning on an exposed wire. "An active network sweep," Julian muttered, rubbing his forehead. "Lukas, do you know how expensive a portable IMSI catcher that can bypass localized school bandwidth is? Whoever was in that van isn't local law enforcement. That’s black-budget stuff."
+Julian pulled his hood down, his eyes darting around the cramped space. He always looked a little nervous in Lukas's shed, usually because he was afraid of accidentally leaning on an exposed wire. "An active surveillance sweep," Julian muttered, rubbing his forehead. "My phone completely dropped cell signal for three minutes while that black van crept past the gate, and Elena saw massive pulse spikes on her spectrum analyzer. Whoever was in that vehicle isn't local law enforcement. That’s black-budget surveillance tech."
 
 "I know," Lukas said quietly. He walked around the bench, unzipping the main compartment of his backpack. "Elena said it had a massive density profile. That’s why their radar picked it up."
 
@@ -27,7 +27,7 @@ He reached in with both hands, braced his core, and hoisted the grey stone out o
 
 Silence fell over the shed. 
 
-Julian leaned in, pushing his glasses up his nose. He squinted at it, his face falling in deep disappointment. "That’s it? We're dodging military-grade tech and intercepting localized network sweeps for a chunk of concrete?" 
+Julian leaned in, pushing his glasses up his nose. He squinted at it, his face falling in deep disappointment. "That’s it? We're dodging military-grade drones and high-yield density scans for a chunk of concrete?" 
 
 "It's not concrete, Julian," Clara said, her voice unusually tight. 
 

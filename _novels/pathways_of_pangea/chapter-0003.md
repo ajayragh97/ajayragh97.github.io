@@ -101,7 +101,7 @@ Through the trees, far away but getting closer, Lukas heard heavy, thumping foot
 
 Lukas looked down at the dull grey rock. His heart was pounding. Something inside him told him they shouldn't leave it here for those people to find. If that drone was looking for it, it meant something. 
 
-Without thinking, Lukas scooped the heavy rock into his arms. It felt exactly like a normal piece of concrete now. He shoved it roughly into his empty backpack and zipped it shut. 
+Without thinking, Lukas reached down and hoisted the stone into his arms. He nearly stumbled—despite losing its glow, the rock was shockingly, impossibly heavy, weighing well over twenty pounds like a solid dumbbell of lead. Grunting against the unnatural density, he shoved it roughly into his empty backpack and zipped it shut. 
 
 "What are you doing?!" Clara whisper-yelled. 
 
@@ -115,7 +115,7 @@ Behind them, the drone's hum suddenly grew louder, spinning wildly as its camera
 
 "Keep running!" Devan shouted, tossing away any need to be quiet. 
 
-Lukas pumped his legs. Usually, a dead sprint through the woods with a heavy backpack would have left him gasping for air within seconds. But right now, his body felt perfectly in tune. His legs didn't ache. His lungs didn't burn. The energy he had taken from the rock was acting like rocket fuel in his veins. 
+Lukas pumped his legs. Usually, a dead sprint through the woods with a twenty-five-pound stone in his backpack would have left him gasping for air within seconds. But right now, his body felt perfectly in tune. His legs didn't ache. His lungs didn't burn. The energy he had taken from the rock was acting like rocket fuel in his veins. 
 
 They burst out of the tree line and practically crashed into the chain-link fence behind the school field. 
 

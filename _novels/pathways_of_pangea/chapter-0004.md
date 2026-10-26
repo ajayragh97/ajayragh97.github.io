@@ -17,7 +17,7 @@ The contrast made his brain hurt.
 
 Clara frantically tried to comb the twigs out of her messy bun using her fingers. "I can't believe we just did that. My shoes are ruined. And if Mr. Mike finds out we were trespassing in the woods..."
 
-"Mr. Mike is the least of our worries right now," Lukas whispered back. His backpack strap was digging painfully into his shoulder. The dull grey rock he had taken weighed at least fifteen pounds, making his bag slump heavily. 
+"Mr. Mike is the least of our worries right now," Lukas whispered back. His backpack strap was digging painfully into his shoulder. The dull grey rock he had taken weighed at least twenty-five pounds, making his bag slump heavily. 
 
 Julian, who had reluctantly packed up his mechanical keyboard and followed them inside, was practically vibrating with nervous curiosity. 
 
