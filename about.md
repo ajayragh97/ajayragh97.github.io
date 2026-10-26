@@ -17,17 +17,14 @@ permalink: /about/
     <section class="about-section">
         <h3>Doctoral Research</h3>
         <p>
-            My doctoral research centers on robust autonomous navigation, state estimation, and sensor perception for mobile robots operating in <strong>Visually Degraded Environments (VDEs)</strong> and GNSS-denied settings. In extreme operating conditions—such as dense smoke, airborne dust, heavy fog, rain, or subterranean environments—conventional optical sensors (cameras and LiDARs) frequently suffer tracking loss due to optical scattering and lack of lighting.
-        </p>
-        <p>
-            To address these challenges, I research and develop <strong>factor graph-based sensor fusion algorithms</strong> utilizing <strong>sparse 4D millimeter-wave (mmWave) radar</strong> and inertial sensors. Because radio waves physically penetrate obscurants, radar provides an environmentally resilient perception source. My work focuses on overcoming the inherent sparsity and noise of radar data through graph-based optimization, Doppler ego-velocity constraints, and structural geometric regularities.
+            My doctoral research centers on robust autonomous navigation, state estimation, and sensor perception for mobile robots.
         </p>
     </section>
 
     <section class="about-section">
         <h3>Master of Science & Master's Thesis</h3>
         <p>
-            Prior to my doctoral studies, I completed my <strong>Master of Science (M. Sc.)</strong> at the <strong>University of Bonn</strong> (Institute for Geodesy and Geoinformation), conducted in collaboration with <strong>Fraunhofer FKIE</strong> (Department of Sensor Data and Information Fusion).
+            Prior to my doctoral studies, I completed my <strong>Master of Science (M. Sc.)</strong> at the <strong>University of Bonn</strong> (Institute for Geodesy and Geoinformation).
         </p>
         <div class="thesis-highlight-box">
             <span class="thesis-badge">Master's Thesis &bull; Bonn 2026</span>
@@ -44,9 +41,6 @@ permalink: /about/
                 </a>
             </div>
         </div>
-        <p style="margin-top: 18px; font-size: 0.95rem; color: var(--text-muted);">
-            <em>Note on publication status:</em> Formal academic papers detailing the complete mathematical derivations, multi-radar extrinsic calibration, and extended evaluations across subterranean mine datasets are currently in preparation. Open-source repositories and benchmarks will be made public upon publication.
-        </p>
     </section>
 
     <section class="about-section">
