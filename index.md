@@ -6,22 +6,47 @@ title: Home
 <!-- Hero Section -->
 <section class="hero-section">
     <div class="hero-badge">
-        <span class="badge-dot"></span> Doctoral Researcher @ University of Bonn
+        <span class="badge-dot"></span> Doctoral Researcher @ University of Bonn (IGG)
     </div>
     <h1 class="hero-name">Ajay Ragh</h1>
     <p class="hero-tagline">
-        Specializing in <strong>Trajectory Estimation</strong>, <strong>Factor Graphs</strong>, and <strong>Sparse Radar SLAM</strong> for Mobile Robotics.
+        Specializing in <strong>Factor Graph Optimization</strong>, <strong>Radar-Inertial Odometry</strong>, and <strong>Trajectory Estimation</strong> for Mobile Robotics.
     </p>
     <p class="hero-bio">
-        Welcome to my personal portfolio. Here you will find an overview of my academic research at the University of Bonn, my technical background in autonomous systems, and my experimental hobby exploring generative AI models for long-horizon narrative synthesis and world-building.
+        I am a doctoral researcher at the <strong>University of Bonn</strong> (Institute for Geodesy and Geoinformation). My research investigates factor graph-based sensor fusion, sparse 4D millimeter-wave radar perception, and robust state estimation in visually degraded environments (VDEs) such as smoke, fog, and subterranean tunnels. I completed my M.Sc. thesis in collaboration with <strong>Fraunhofer FKIE</strong> on Plane-Constrained Radar-Inertial Odometry (PC-RIO). In my spare time, I explore generative AI models on long-horizon narrative synthesis and large-scale world-building.
     </p>
 
     <div class="hero-cta-group">
         <a href="{{ '/about' | relative_url }}" class="btn primary">About My Background</a>
+        <a href="{{ '/blog' | relative_url }}" class="btn outline">Research Blog & Visualizations</a>
         <a href="{{ '/novels' | relative_url }}" class="btn outline">Explore AI Novels</a>
         <a href="https://www.linkedin.com/in/ajay-ragh/" target="_blank" rel="noopener noreferrer" class="btn outline linkedin-btn">
             LinkedIn Profile &rarr;
         </a>
+    </div>
+</section>
+
+<!-- Featured Research Spotlight Banner -->
+<section class="section-container">
+    <div class="research-spotlight-card">
+        <div class="spotlight-content">
+            <span class="spotlight-badge">Master's Thesis Highlight &bull; Univ. of Bonn & Fraunhofer FKIE</span>
+            <h3>Factor Graph-Based Trajectory Estimation Fusing Radar and Inertial Data</h3>
+            <p>
+                Developing <strong>PC-RIO</strong>: an asynchronous dual-threaded factor graph framework that overcomes mmWave radar sparsity by combining high-rate Doppler ego-velocity estimation with low-rate structural plane constraints. Achieving sub-20 cm indoor trajectory tracking and reducing positional drift by up to 90% without requiring external barometers or cameras.
+            </p>
+            <div class="spotlight-actions">
+                <a href="{{ '/2026/10/26/radar-inertial-trajectory-estimation.html' | relative_url }}" class="btn primary">
+                    Read Thesis Overview & Watch Result Videos &rarr;
+                </a>
+            </div>
+        </div>
+        <div class="spotlight-preview">
+            <a href="{{ '/2026/10/26/radar-inertial-trajectory-estimation.html' | relative_url }}" class="spotlight-image-link" title="Click to view full blog post and videos">
+                <img src="{{ '/assets/images/office_floor/1.png' | relative_url }}" alt="Top-down radar trajectory visualization" class="spotlight-thumb">
+                <span class="spotlight-thumb-caption">Office Floor: Composite Radar Point Cloud & Trajectory &rarr;</span>
+            </a>
+        </div>
     </div>
 </section>
 
@@ -37,7 +62,7 @@ title: Home
             <div class="card-icon">📡</div>
             <h3>Sparse Radar SLAM</h3>
             <p>
-                Investigating methods to exploit sparse 4D radar point clouds for robust Simultaneous Localization and Mapping (SLAM), especially in adverse weather, dust, and dynamic environments where cameras or LiDAR degrade.
+                Investigating methods to exploit sparse 4D radar point clouds for robust Simultaneous Localization and Mapping (SLAM), especially in adverse weather, smoke, dust, and dynamic environments where cameras or LiDAR degrade.
             </p>
             <div class="card-tags">
                 <span class="tag">Radar SLAM</span>
@@ -50,11 +75,11 @@ title: Home
             <div class="card-icon">📐</div>
             <h3>Factor Graph Optimization</h3>
             <p>
-                Developing nonlinear factor graph-based optimization algorithms to perform consistent, real-time trajectory estimation and multi-sensor fusion for mobile robotic platforms.
+                Formulating non-linear factor graph optimization pipelines using GTSAM and iSAM2 backends to perform consistent, real-time trajectory estimation and multi-sensor fusion for mobile robotic platforms.
             </p>
             <div class="card-tags">
                 <span class="tag">Factor Graphs</span>
-                <span class="tag">Nonlinear Least Squares</span>
+                <span class="tag">iSAM2</span>
                 <span class="tag">Sensor Fusion</span>
             </div>
         </div>
@@ -63,7 +88,7 @@ title: Home
             <div class="card-icon">🤖</div>
             <h3>Mobile Robotics & State Estimation</h3>
             <p>
-                Designing end-to-end state estimation pipelines for ground and mobile robots, fusing odometry, inertial sensors (IMU), and Doppler radar data into unified trajectory estimates.
+                Designing end-to-end state estimation pipelines for ground and mobile robots, fusing odometry, inertial sensors (IMU), and Doppler radar data into unified trajectory estimates across GNSS-denied terrains.
             </p>
             <div class="card-tags">
                 <span class="tag">State Estimation</span>
@@ -74,14 +99,14 @@ title: Home
 
         <div class="focus-card">
             <div class="card-icon">🎓</div>
-            <h3>Academic Background & Thesis</h3>
+            <h3>Master's Thesis Research: PC-RIO</h3>
             <p>
-                Completed a Master's Thesis focusing on advanced robotic state estimation. Current doctoral research is ongoing, with experimental frameworks and results actively being prepared for upcoming publications.
+                Developed Plane-Constrained Radar-Inertial Odometry in collaboration with Fraunhofer FKIE. Achieved up to 90% drift reduction in indoor environments by enforcing structural planar constraints on factor graphs.
             </p>
             <div class="card-tags">
                 <span class="tag">Univ. of Bonn</span>
-                <span class="tag">Master's Thesis</span>
-                <span class="tag">Doctoral Research</span>
+                <span class="tag">Fraunhofer FKIE</span>
+                <span class="tag">PC-RIO</span>
             </div>
         </div>
     </div>
@@ -137,15 +162,16 @@ title: Home
     </div>
 
     <div class="skills-badges-container">
-        <div class="skill-pill">C++</div>
+        <div class="skill-pill">C++ (C++17/20)</div>
         <div class="skill-pill">Python</div>
         <div class="skill-pill">ROS / ROS 2</div>
         <div class="skill-pill">Factor Graphs & GTSAM</div>
+        <div class="skill-pill">iSAM2</div>
         <div class="skill-pill">Ceres Solver</div>
         <div class="skill-pill">Point Cloud Library (PCL)</div>
         <div class="skill-pill">Linux / Ubuntu</div>
         <div class="skill-pill">Git / GitHub</div>
         <div class="skill-pill">LaTeX</div>
-        <div class="skill-pill">Generative AI Prompting & Workflows</div>
+        <div class="skill-pill">Generative AI Workflows</div>
     </div>
 </section>

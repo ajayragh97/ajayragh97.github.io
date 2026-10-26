@@ -18,7 +18,11 @@ permalink: /blog/
                     {{ post.date | date: "%B %d, %Y" }}
                 </time>
                 <span class="meta-dot">&bull;</span>
-                <span class="post-category">General</span>
+                {% if post.tags and post.tags.size > 0 %}
+                    <span class="post-category">{{ post.tags | first }}</span>
+                {% else %}
+                    <span class="post-category">General</span>
+                {% endif %}
             </div>
             <h2 class="post-preview-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

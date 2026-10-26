@@ -9,35 +9,50 @@ permalink: /about/
         <div class="about-header-text">
             <h2>Hi, I'm Ajay Ragh</h2>
             <p class="about-lead">
-                I am a doctoral researcher in the field of <strong>trajectory estimation for mobile robotics</strong> at the <strong>University of Bonn</strong>.
+                I am a doctoral researcher in the field of <strong>mobile robotics and trajectory estimation</strong> at the <strong>University of Bonn</strong> (Institute for Geodesy and Geoinformation).
             </p>
         </div>
     </section>
 
     <section class="about-section">
-        <h3>Research & Doctoral Work</h3>
+        <h3>Doctoral Research</h3>
         <p>
-            My current doctoral research centers on autonomous mobile robotics, with a particular focus on <strong>trajectory estimation</strong> using <strong>sparse radar point clouds</strong>. Modern 4D millimeter-wave radars provide significant advantages in challenging operational conditions—such as smoke, fog, dust, and direct sunlight—where traditional optical cameras and LiDAR sensors frequently struggle or fail.
+            My doctoral research centers on robust autonomous navigation, state estimation, and sensor perception for mobile robots operating in <strong>Visually Degraded Environments (VDEs)</strong> and GNSS-denied settings. In extreme operating conditions—such as dense smoke, airborne dust, heavy fog, rain, or subterranean environments—conventional optical sensors (cameras and LiDARs) frequently suffer tracking loss due to optical scattering and lack of lighting.
         </p>
         <p>
-            However, radar point clouds are notoriously sparse, noisy, and subject to multipath reflections. To address these challenges, I research and develop <strong>factor graph-based optimization algorithms</strong> that model measurement uncertainties, incorporate kinematic constraints, and solve for high-fidelity robot trajectories and environmental maps.
+            To address these challenges, I research and develop <strong>factor graph-based sensor fusion algorithms</strong> utilizing <strong>sparse 4D millimeter-wave (mmWave) radar</strong> and inertial sensors. Because radio waves physically penetrate obscurants, radar provides an environmentally resilient perception source. My work focuses on overcoming the inherent sparsity and noise of radar data through graph-based optimization, Doppler ego-velocity constraints, and structural geometric regularities.
         </p>
     </section>
 
     <section class="about-section">
-        <h3>Academic Background & Master's Thesis</h3>
+        <h3>Master of Science & Master's Thesis</h3>
         <p>
-            Prior to my doctoral studies at the University of Bonn, I completed my Master's degree, culminating in a <strong>Master's Thesis</strong> in robotics and state estimation.
+            Prior to my doctoral studies, I completed my <strong>Master of Science (M. Sc.)</strong> at the <strong>University of Bonn</strong> (Institute for Geodesy and Geoinformation), conducted in collaboration with <strong>Fraunhofer FKIE</strong> (Department of Sensor Data and Information Fusion).
         </p>
-        <p>
-            Because my current and previous research projects are being prepared for formal peer-reviewed academic publication, the corresponding repositories and datasets remain private for now. Once the papers undergo peer review and are published, open-source code and benchmark datasets will be linked here.
+        <div class="thesis-highlight-box">
+            <span class="thesis-badge">Master's Thesis &bull; Bonn 2026</span>
+            <h4 class="thesis-title">Factor Graph-Based Trajectory Estimation Fusing Radar and Inertial Sensor Data</h4>
+            <p class="thesis-meta">
+                <strong>Supervisors:</strong> Prof. Dr. Lasse Klingbeil (Univ. of Bonn), Felix Esser (Univ. of Bonn), Fahmi Rouatbi (Fraunhofer FKIE)
+            </p>
+            <p class="thesis-summary">
+                Developed <strong>PC-RIO (Plane-Constrained Radar-Inertial Odometry)</strong>: an asynchronous dual-threaded factor graph framework that tightly couples Doppler radar ego-velocity, intensity-weighted NDT rotation, and high-frequency IMU kinematics with low-frequency structural plane constraints (ground planes and orthogonal Manhattan walls). Across extensive real-world indoor sequences, the structural background factors suppressed positional drift by up to <strong>90%</strong>, achieving sub-20 cm trajectory accuracy without relying on visual cameras or external barometer hardware.
+            </p>
+            <div class="thesis-links">
+                <a href="{{ '/2026/10/26/radar-inertial-trajectory-estimation.html' | relative_url }}" class="btn primary">
+                    Read Thesis Blog Post & Visualizations &rarr;
+                </a>
+            </div>
+        </div>
+        <p style="margin-top: 18px; font-size: 0.95rem; color: var(--text-muted);">
+            <em>Note on publication status:</em> Formal academic papers detailing the complete mathematical derivations, multi-radar extrinsic calibration, and extended evaluations across subterranean mine datasets are currently in preparation. Open-source repositories and benchmarks will be made public upon publication.
         </p>
     </section>
 
     <section class="about-section">
         <h3>Creative Exploration: AI-Assisted Narrative Synthesis</h3>
         <p>
-            Beyond academic robotics, I pursue a creative hobby at the intersection of imagination and generative artificial intelligence. Rather than writing as a traditional author, I utilize large language models to construct serialized web novels.
+            Beyond academic robotics, I pursue a creative hobby at the intersection of imagination and generative artificial intelligence. Rather than writing as a traditional author, I direct, outline, and prompt large language models to construct serialized web fiction.
         </p>
         <p>
             This hobby serves two distinct experimental purposes:
@@ -65,30 +80,33 @@ permalink: /about/
         <h3>Technical Toolkit</h3>
         <div class="skills-category-grid">
             <div class="skill-category">
-                <h4>Robotics & Estimation</h4>
+                <h4>Robotics & State Estimation</h4>
                 <ul>
-                    <li>Factor Graph Optimization</li>
-                    <li>Simultaneous Localization & Mapping (SLAM)</li>
+                    <li>Factor Graph Optimization & iSAM2</li>
+                    <li>Radar-Inertial Odometry (RIO) & SLAM</li>
                     <li>4D Millimeter-Wave Radar Perception</li>
-                    <li>Multi-Sensor Fusion (IMU, Odometry, Radar)</li>
+                    <li>Doppler Velocity Estimation (REVE) & NDT</li>
+                    <li>Structural SLAM (Manhattan World & Planar Constraints)</li>
                 </ul>
             </div>
             <div class="skill-category">
                 <h4>Software & Libraries</h4>
                 <ul>
-                    <li>C++ (Modern C++17/20)</li>
+                    <li>Modern C++ (C++17/20)</li>
                     <li>Python (NumPy, SciPy, Matplotlib)</li>
+                    <li>GTSAM (Georgia Tech Smoothing and Mapping)</li>
                     <li>ROS / ROS 2</li>
-                    <li>GTSAM / Ceres Solver</li>
+                    <li>Point Cloud Library (PCL) & Ceres Solver</li>
                 </ul>
             </div>
             <div class="skill-category">
-                <h4>Tools & Environments</h4>
+                <h4>Tools & Engineering</h4>
                 <ul>
                     <li>Linux / Ubuntu</li>
                     <li>Git & GitHub version control</li>
+                    <li>trajectopy (Trajectory Evaluation Toolkit)</li>
                     <li>LaTeX / Scientific Documentation</li>
-                    <li>Generative AI Prompt Engineering</li>
+                    <li>Generative AI Prompting & Workflows</li>
                 </ul>
             </div>
         </div>
@@ -106,7 +124,7 @@ permalink: /about/
             <a href="https://github.com/ajayragh97" target="_blank" rel="noopener noreferrer" class="btn outline">
                 GitHub (@ajayragh97)
             </a>
-            <a href="mailto:ajayragh97@gmail.com" class="btn outline">
+            <a href="mailto:ajayragh1997@gmail.com" class="btn outline">
                 Email Me
             </a>
         </div>
