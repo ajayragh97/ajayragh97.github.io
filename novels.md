@@ -29,10 +29,12 @@ permalink: /novels/
     </div>
 
     <div class="novel-showcase-grid">
+        {% assign fii_chapters = site.novels | where: "novel", "forged_in_infinity" %}
+        {% assign pop_chapters = site.novels | where: "novel", "pathways_of_pangea" %}
         <!-- Forged in Infinity -->
         <div class="novel-feature-card">
             <div class="novel-card-top">
-                <span class="novel-status-badge">70 Chapters Available</span>
+                <span class="novel-status-badge">{{ fii_chapters.size }} Chapters Available</span>
                 <span class="novel-genre-tag">Sci-Fi &bull; Rebirth &bull; Tech Fantasy</span>
             </div>
             <h3 class="novel-card-title">Forged in Infinity</h3>
@@ -42,7 +44,7 @@ permalink: /novels/
             <div class="novel-card-meta">
                 <div class="meta-item">
                     <span class="meta-label">Experiment Horizon</span>
-                    <span class="meta-value">High (70+ Chapters)</span>
+                    <span class="meta-value">High ({{ fii_chapters.size }}+ Chapters)</span>
                 </div>
                 <div class="meta-item">
                     <span class="meta-label">Primary Focus</span>
@@ -51,7 +53,7 @@ permalink: /novels/
             </div>
             <div class="novel-card-actions">
                 <a href="{{ '/novels/forged_in_infinity/' | relative_url }}" class="btn primary">
-                    Browse Chapters (1 – 70) &rarr;
+                    Browse Chapters (1 – {{ fii_chapters.size }}) &rarr;
                 </a>
             </div>
         </div>
@@ -59,7 +61,7 @@ permalink: /novels/
         <!-- Pathways of Pangea -->
         <div class="novel-feature-card">
             <div class="novel-card-top">
-                <span class="novel-status-badge">9 Chapters Available</span>
+                <span class="novel-status-badge">{{ pop_chapters.size }} Chapters Available</span>
                 <span class="novel-genre-tag">Sci-Fi &bull; Planetary Exploration</span>
             </div>
             <h3 class="novel-card-title">Pathways of Pangea</h3>
@@ -78,7 +80,7 @@ permalink: /novels/
             </div>
             <div class="novel-card-actions">
                 <a href="{{ '/novels/pathways_of_pangea/' | relative_url }}" class="btn primary">
-                    Browse Chapters (1 – 9) &rarr;
+                    Browse Chapters (1 – {{ pop_chapters.size }}) &rarr;
                 </a>
             </div>
         </div>

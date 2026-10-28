@@ -137,15 +137,17 @@ title: Home
             </div>
         </div>
 
+        {% assign fii_chapters = site.novels | where: "novel", "forged_in_infinity" %}
+        {% assign pop_chapters = site.novels | where: "novel", "pathways_of_pangea" %}
         <div class="novel-mini-cards">
             <a href="{{ '/novels/forged_in_infinity/' | relative_url }}" class="mini-card">
-                <span class="mini-badge">70 Chapters</span>
+                <span class="mini-badge">{{ fii_chapters.size }} Chapters</span>
                 <h4>Forged in Infinity</h4>
                 <p>Rebirth, nanotech, and cosmic challenges spanning deep narrative arcs.</p>
                 <span class="mini-link">Browse Chapters &rarr;</span>
             </a>
             <a href="{{ '/novels/pathways_of_pangea/' | relative_url }}" class="mini-card">
-                <span class="mini-badge">9 Chapters</span>
+                <span class="mini-badge">{{ pop_chapters.size }} Chapters</span>
                 <h4>Pathways of Pangea</h4>
                 <p>A sci-fi tale of an orphaned youth discovering a world-spanning destiny.</p>
                 <span class="mini-link">Browse Chapters &rarr;</span>
