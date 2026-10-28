@@ -241,7 +241,7 @@ Lukas sat back against the wooden wall of the shed, pulling his knees up to his 
 
 The storm had passed. The school was still standing. The mysterious watchers in the black van had lost their trail. But as he sat alone in the dark, feeling the vast, hollow emptiness echoing in his chest, Lukas knew the truth: 
 
-Whatever strange power had awakened inside him... it was real. The universe outside their quiet world was alive, terrifying, and watching. And if he ever wanted to survive another pulse, he couldn't just be an amateur playing with live current in a shed. 
+Whatever strange power had awakened inside him... it was real. The universe outside their quiet world was alive, terrifying, and watching. And if he ever wanted to understand what was happening to him, he couldn't just be an amateur playing with live current in a shed. 
 
 He had to learn how to endure the desert. 
 

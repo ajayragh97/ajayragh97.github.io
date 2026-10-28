@@ -21,7 +21,7 @@ Julian slowly rolled his head to the side, glaring at Devan through one fogged s
 
 "Can't you just buy another one?" Clara asked, carefully slicing the crust off a turkey sandwich using a plastic cafeteria knife. 
 
-Julian let out a hollow laugh. "Buy another one? Clara, do you know what a mid-tier transistor board costs on a suburban allowance? I would have to sell a kidney. Or worse, get an actual part-time job at the bowling alley." He turned his tragic gaze toward Lukas. "Lukas. You're the junk whisperer. You have to resurrect it. I have five dollars and a bag of sour gummies with your name on them."
+Julian let out a hollow laugh. "Buy another one? Clara, do you know what a mid-tier GPU costs on a suburban allowance? I would have to sell a kidney. Or worse, get an actual part-time job at the bowling alley." He turned his tragic gaze toward Lukas. "Lukas. You're the junk whisperer. You have to resurrect it. I have five dollars and a bag of sour gummies with your name on them."
 
 Lukas smiled faintly around a mouthful of tater tots. His body still felt stiff and heavy from Wednesday's sudden energy crash, but forty-eight hours of Mrs. Gable’s cooking and Devan’s breathing exercises had chased away the worst of the shaking. 
 

@@ -17,7 +17,7 @@ The battery was dead. The high-octane charge he had absorbed from the crater sto
 
 Yet, as he lay there breathing in the cold morning air, Lukas noticed something different. The chronic, dull ache that had plagued his childhood—the vague, sickly weakness he had never been able to put into words—felt altered. 
 
-Before the pulse on his birthday, his body had felt sluggish and numb, like an ungrounded radio circuit choked with static. Now, even though he was completely drained of energy, the internal architecture remained. When he closed his eyes and focused, he could feel them: faint, hollow channels branching outward from beneath his sternum, running down his biceps, and tracing the bones of his forearms. 
+Before that strange jolt on his birthday, his body had felt sluggish and numb, like an ungrounded radio circuit choked with static. Now, even though he was completely drained of energy, the internal architecture remained. When he closed his eyes and focused, he could feel them: faint, hollow channels branching outward from beneath his sternum, running down his biceps, and tracing the bones of his forearms. 
 
 They felt like dry riverbeds carved into stone. The water was gone, but the riverbeds were permanent. The pathways were real, and they were empty. 
 
