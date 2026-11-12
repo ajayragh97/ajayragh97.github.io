@@ -93,7 +93,7 @@ To evaluate the pipeline in structured environments, we tested it against real-w
 The video below illustrates the real-time operation of the pipeline navigating an extensive office corridor environment. Notice how the foreground thread maintains fast state tracking while the background thread aggregates radar returns into a dense, coherent composite map:
 
 <div class="media-container video-card">
-    <iframe width="1905" height="782" src="https://www.youtube.com/embed/lbAlBgcX-y4" title="office floor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="1920" height="1080" src="https://www.youtube.com/embed/lbAlBgcX-y4" title="office floor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p class="media-caption">
         <strong>Figure 1:</strong> Real-time trajectory estimation and composite radar point cloud generation in an office corridor environment.
     </p>
@@ -131,7 +131,7 @@ By introducing geometric planar constraints from aggregated composite clouds, th
 The video below highlights this side-by-side:
 
 <div class="media-container video-card">
-    <iframe width="1905" height="540" src="https://www.youtube.com/embed/dBVBrSOvrVY" title="odometry comparison side by side" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="1920" height="1080" src="https://www.youtube.com/embed/dBVBrSOvrVY" title="odometry comparison side by side" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <p class="media-caption">
         <strong>Figure 2:</strong> Side-by-side odometry comparison demonstrating the stabilization achieved by injecting structural background factors.
     </p>
